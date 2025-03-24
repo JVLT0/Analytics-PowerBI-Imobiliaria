@@ -21,6 +21,13 @@ Este projeto tem como objetivo analisar o mercado imobiliário de uma imobiliár
 - 🔹 **Receita Total**
 - 🔹 **Regiões Mais Lucrativas**
 
+## 📌 Visão Geral do Relatorio
+
+![Analise de Vendas](/Imagens/Pagina%201.png)
+![Analise de Alugueis e Vacancia](/Imagens/Pagina%202.png)
+![Analise Temporal 2024](/Imagens/Pagina%203.png)
+![Analise Temporal 2025](/Imagens/Pagina%203-2.png)
+
 ## 🏗️ Ferramentas Utilizadas
 - ✅ **Power BI:** Para tratamento, visualização e análise de dados.
 - ✅ **Excel/CSV:** Para armazenamento e organização inicial dos dados.

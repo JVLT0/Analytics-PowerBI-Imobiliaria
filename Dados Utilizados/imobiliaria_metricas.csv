@@ -1,0 +1,1001 @@
+﻿Tipo_Imovel;Regiao;Area_m2;Preco_Total;Status;Data_Listagem;Data_Venda;Data_Aluguel;Dias_Venda;Receita
+Casa;Zona Oeste;39,98;113376,08;Disponível;2023-07-28;;;;0,00
+Apartamento;Centro;79,07;254136,51;Disponível;2024-02-01;;;;0,00
+Comercial;Zona Oeste;74,94;127310,32;Vendido;2023-07-02;2024-04-07;;280.0;127310,32
+Casa;Centro;51,18;112765,41;Vendido;2023-09-14;2024-08-02;;323.0;112765,41
+Casa;Zona Leste;38,83;148733,27;Vendido;2023-12-27;2024-05-02;;127.0;148733,27
+Apartamento;Zona Norte;65,97;319466,98;Vendido;2023-09-23;2024-04-25;;215.0;319466,98
+Apartamento;Zona Leste;110,57;419457,25;Disponível;2023-03-24;;;;0,00
+Comercial;Zona Sul;73,63;115532,83;Disponível;2023-06-16;;;;0,00
+Comercial;Zona Leste;75,61;284729,87;Disponível;2023-05-23;;;;0,00
+Casa;Zona Sul;118,61;676460,11;Vendido;2023-04-07;2024-06-22;;442.0;676460,11
+Apartamento;Zona Leste;48,00;206688,96;Disponível;2023-10-02;;;;0,00
+Apartamento;Zona Oeste;48,33;180778,85;Vendido;2023-06-27;2024-07-07;;376.0;180778,85
+Comercial;Centro;113,34;187133,41;Alugado;2024-03-09;;2024-11-18;;935,67
+Casa;Zona Leste;87,08;273541,79;Alugado;2023-04-09;;2024-08-28;;1367,71
+Comercial;Zona Norte;94,00;272586,84;Alugado;2024-03-04;;2025-01-29;;1362,93
+Apartamento;Zona Oeste;93,12;154027,00;Disponível;2024-01-02;;;;0,00
+Casa;Zona Sul;57,32;248458,70;Vendido;2023-03-30;2024-11-08;;589.0;248458,70
+Apartamento;Zona Sul;84,86;329299,23;Vendido;2024-03-01;2024-10-06;;219.0;329299,23
+Apartamento;Zona Norte;67,63;265744,65;Vendido;2023-05-23;2024-12-04;;561.0;265744,65
+Apartamento;Zona Sul;89,13;141911,89;Vendido;2023-08-04;2024-04-17;;257.0;141911,89
+Comercial;Zona Oeste;56,33;211428,46;Vendido;2023-09-28;2025-01-03;;463.0;211428,46
+Casa;Zona Norte;62,63;197721,66;Disponível;2024-03-12;;;;0,00
+Casa;Zona Norte;63,11;230543,99;Disponível;2024-01-05;;;;0,00
+Comercial;Zona Sul;51,98;214044,80;Vendido;2023-05-31;2024-08-09;;436.0;214044,80
+Apartamento;Zona Oeste;52,77;84319,07;Alugado;2023-04-05;;2024-08-09;;421,60
+Apartamento;Zona Leste;116,87;592971,50;Vendido;2023-08-07;2024-11-11;;462.0;592971,50
+Casa;Zona Sul;50,85;161678,59;Vendido;2023-10-09;2025-03-16;;524.0;161678,59
+Apartamento;Centro;57,45;206163,35;Alugado;2023-04-13;;2024-12-27;;1030,82
+Comercial;Zona Oeste;72,22;116955,96;Disponível;2023-09-01;;;;0,00
+Comercial;Zona Norte;115,74;569952,37;Vendido;2023-10-12;2025-01-12;;458.0;569952,37
+Comercial;Zona Norte;72,74;397721,95;Alugado;2024-02-17;;2024-05-30;;1988,61
+Casa;Zona Leste;37,93;132060,50;Vendido;2023-04-27;2024-11-04;;557.0;132060,50
+Apartamento;Zona Norte;57,01;209740,93;Alugado;2023-09-18;;2024-04-22;;1048,70
+Comercial;Zona Norte;33,96;158371,44;Alugado;2023-08-04;;2024-11-21;;791,86
+Casa;Zona Oeste;93,63;155940,76;Disponível;2023-06-05;;;;0,00
+Comercial;Zona Norte;34,03;110932,36;Alugado;2024-03-05;;2024-10-27;;554,66
+Apartamento;Zona Norte;110,42;522050,30;Disponível;2023-05-05;;;;0,00
+Apartamento;Zona Sul;76,00;141911,00;Disponível;2023-05-27;;;;0,00
+Casa;Zona Oeste;50,70;135753,81;Disponível;2023-05-01;;;;0,00
+Apartamento;Centro;87,01;508965,87;Vendido;2023-09-19;2024-10-11;;388.0;508965,87
+Apartamento;Centro;47,75;283403,41;Alugado;2023-05-08;;2024-11-01;;1417,02
+Comercial;Centro;115,29;282080,04;Alugado;2023-08-06;;2024-04-22;;1410,40
+Apartamento;Zona Leste;67,29;273244,50;Disponível;2024-02-29;;;;0,00
+Comercial;Zona Norte;62,84;214101,54;Vendido;2023-06-12;2024-05-09;;332.0;214101,54
+Casa;Zona Leste;116,95;324283,64;Vendido;2024-03-08;2024-10-24;;230.0;324283,64
+Casa;Centro;85,60;480510,46;Disponível;2023-05-27;;;;0,00
+Casa;Zona Sul;86,75;279913,62;Vendido;2024-02-27;2024-09-30;;216.0;279913,62
+Comercial;Zona Sul;30,24;77242,33;Vendido;2023-12-14;2024-12-09;;361.0;77242,33
+Apartamento;Centro;81,46;384091,23;Vendido;2024-03-15;2024-06-19;;96.0;384091,23
+Apartamento;Zona Leste;36,01;197922,84;Disponível;2023-12-14;;;;0,00
+Casa;Zona Sul;45,76;79238,02;Alugado;2023-10-08;;2024-12-20;;396,19
+Comercial;Centro;112,29;574247,69;Disponível;2024-02-27;;;;0,00
+Apartamento;Zona Sul;116,87;654864,68;Disponível;2023-04-11;;;;0,00
+Comercial;Zona Sul;42,73;70573,30;Disponível;2023-04-06;;;;0,00
+Apartamento;Zona Sul;47,69;266700,60;Vendido;2023-10-03;2024-11-28;;422.0;266700,60
+Comercial;Zona Norte;63,49;160133,21;Alugado;2023-09-27;;2025-03-18;;800,67
+Casa;Centro;62,07;248177,58;Disponível;2023-05-05;;;;0,00
+Comercial;Zona Norte;74,35;321645,53;Vendido;2023-11-22;2024-06-07;;198.0;321645,53
+Casa;Centro;56,61;327003,70;Alugado;2023-05-11;;2025-03-10;;1635,02
+Comercial;Zona Oeste;59,11;334548,41;Vendido;2024-02-06;2024-10-24;;261.0;334548,41
+Casa;Zona Norte;74,90;323839,89;Disponível;2024-02-17;;;;0,00
+Comercial;Zona Sul;98,81;382058,75;Disponível;2023-05-18;;;;0,00
+Comercial;Zona Norte;74,61;348694,31;Disponível;2023-09-16;;;;0,00
+Comercial;Centro;58,73;315220,94;Disponível;2023-05-30;;;;0,00
+Comercial;Zona Oeste;105,64;397499,02;Vendido;2023-08-12;2025-02-11;;549.0;397499,02
+Apartamento;Zona Oeste;88,24;187535,59;Disponível;2024-02-11;;;;0,00
+Casa;Zona Norte;56,57;199257,08;Alugado;2023-07-06;;2024-08-21;;996,29
+Comercial;Zona Norte;66,50;148072,89;Disponível;2024-01-29;;;;0,00
+Apartamento;Zona Oeste;41,82;227457,31;Disponível;2023-04-14;;;;0,00
+Apartamento;Zona Oeste;33,98;191030,80;Disponível;2023-08-29;;;;0,00
+Casa;Zona Sul;83,14;446618,10;Vendido;2023-07-26;2024-10-02;;434.0;446618,10
+Apartamento;Zona Oeste;79,96;441622,28;Alugado;2024-03-12;;2024-04-06;;2208,11
+Apartamento;Zona Leste;82,88;128902,44;Disponível;2023-11-19;;;;0,00
+Comercial;Centro;115,54;568007,35;Alugado;2024-01-20;;2024-12-18;;2840,04
+Casa;Zona Oeste;67,42;383218,65;Alugado;2023-04-13;;2024-11-10;;1916,09
+Casa;Zona Oeste;108,40;277009,70;Disponível;2023-07-16;;;;0,00
+Comercial;Zona Norte;69,35;297349,91;Disponível;2023-04-24;;;;0,00
+Apartamento;Zona Oeste;70,35;280770,37;Disponível;2024-02-07;;;;0,00
+Apartamento;Zona Oeste;65,24;299716,47;Vendido;2023-10-11;2024-12-12;;428.0;299716,47
+Comercial;Zona Oeste;40,68;121495,29;Alugado;2023-07-24;;2025-01-31;;607,48
+Casa;Zona Norte;56,17;318205,86;Vendido;2024-02-28;2025-01-06;;313.0;318205,86
+Apartamento;Zona Leste;57,16;210923,83;Vendido;2023-06-10;2024-05-03;;328.0;210923,83
+Comercial;Zona Norte;110,88;194636,53;Vendido;2023-09-08;2024-11-15;;434.0;194636,53
+Comercial;Zona Leste;113,23;493078,15;Alugado;2023-06-28;;2024-08-16;;2465,39
+Casa;Zona Sul;104,97;171470,59;Vendido;2024-02-10;2024-04-11;;61.0;171470,59
+Casa;Zona Norte;52,98;251033,54;Vendido;2023-10-05;2024-12-15;;437.0;251033,54
+Apartamento;Zona Norte;85,62;373544,65;Vendido;2023-04-01;2025-02-07;;678.0;373544,65
+Casa;Zona Sul;100,75;342477,46;Vendido;2023-10-12;2024-05-23;;224.0;342477,46
+Apartamento;Centro;58,61;241886,99;Disponível;2023-08-07;;;;0,00
+Comercial;Zona Oeste;47,49;125742,60;Vendido;2023-10-07;2025-03-17;;527.0;125742,60
+Apartamento;Zona Norte;93,22;493252,19;Alugado;2023-09-24;;2024-08-13;;2466,26
+Apartamento;Centro;81,96;482433,77;Disponível;2023-06-02;;;;0,00
+Comercial;Zona Leste;106,82;244935,06;Disponível;2023-12-30;;;;0,00
+Apartamento;Zona Sul;58,93;270339,61;Disponível;2023-05-26;;;;0,00
+Apartamento;Zona Leste;39,38;74828,69;Vendido;2023-12-20;2025-03-16;;452.0;74828,69
+Comercial;Zona Norte;81,10;122796,75;Disponível;2023-07-25;;;;0,00
+Comercial;Zona Oeste;114,58;172618,21;Disponível;2023-05-15;;;;0,00
+Apartamento;Zona Oeste;99,77;167790,19;Vendido;2024-02-18;2025-02-26;;374.0;167790,19
+Apartamento;Centro;68,06;379378,01;Disponível;2023-07-31;;;;0,00
+Comercial;Zona Leste;103,77;302133,62;Disponível;2023-10-02;;;;0,00
+Casa;Centro;54,24;230626,31;Vendido;2024-03-01;2024-05-03;;63.0;230626,31
+Comercial;Centro;35,14;176850,13;Disponível;2023-09-03;;;;0,00
+Casa;Centro;109,79;573702,16;Disponível;2024-01-04;;;;0,00
+Apartamento;Zona Leste;94,83;351075,83;Vendido;2023-06-15;2024-06-27;;378.0;351075,83
+Casa;Zona Oeste;114,63;404164,75;Alugado;2024-03-19;;2024-10-19;;2020,82
+Apartamento;Centro;114,68;342338,15;Vendido;2023-06-18;2024-05-23;;340.0;342338,15
+Comercial;Zona Leste;36,26;181041,47;Disponível;2023-07-20;;;;0,00
+Apartamento;Zona Oeste;65,99;347996,95;Disponível;2024-03-06;;;;0,00
+Apartamento;Zona Oeste;66,71;339599,26;Disponível;2023-09-22;;;;0,00
+Apartamento;Zona Oeste;44,11;207329,79;Disponível;2023-05-15;;;;0,00
+Comercial;Centro;100,29;586540,05;Vendido;2023-05-21;2025-01-15;;605.0;586540,05
+Comercial;Centro;79,29;331674,83;Alugado;2023-12-12;;2024-03-21;;1658,37
+Comercial;Zona Sul;54,71;248934,88;Vendido;2024-03-06;2024-06-09;;95.0;248934,88
+Casa;Centro;61,79;121208,50;Disponível;2024-01-06;;;;0,00
+Casa;Zona Sul;32,46;72479,93;Disponível;2023-12-08;;;;0,00
+Apartamento;Zona Oeste;41,43;223143,22;Alugado;2023-05-03;;2024-08-24;;1115,72
+Apartamento;Centro;67,91;144378,70;Alugado;2023-11-12;;2024-06-24;;721,89
+Apartamento;Zona Sul;38,85;209244,55;Disponível;2024-02-26;;;;0,00
+Casa;Zona Oeste;115,94;655364,76;Disponível;2023-08-20;;;;0,00
+Comercial;Zona Leste;87,97;310556,97;Disponível;2023-12-23;;;;0,00
+Casa;Centro;89,15;382670,13;Vendido;2023-09-12;2024-08-21;;344.0;382670,13
+Comercial;Zona Norte;95,01;170608,51;Disponível;2023-12-02;;;;0,00
+Apartamento;Zona Oeste;31,12;56094,73;Vendido;2023-04-13;2025-03-02;;689.0;56094,73
+Comercial;Zona Norte;106,37;523899,91;Vendido;2023-05-12;2024-04-19;;343.0;523899,91
+Comercial;Zona Norte;81,66;407170,64;Vendido;2023-06-18;2025-01-13;;575.0;407170,64
+Comercial;Zona Oeste;67,24;130979,49;Disponível;2023-03-22;;;;0,00
+Casa;Zona Sul;74,34;281172,47;Alugado;2024-01-23;;2024-11-25;;1405,86
+Casa;Zona Oeste;64,26;215801,79;Disponível;2024-02-16;;;;0,00
+Comercial;Zona Sul;66,28;273015,94;Disponível;2023-06-27;;;;0,00
+Apartamento;Zona Leste;104,04;477282,46;Disponível;2024-01-07;;;;0,00
+Casa;Centro;45,95;167777,69;Disponível;2023-10-06;;;;0,00
+Casa;Zona Sul;113,73;209248,42;Alugado;2023-09-06;;2024-11-21;;1046,24
+Apartamento;Centro;87,90;365870,57;Disponível;2023-04-30;;;;0,00
+Apartamento;Centro;35,80;55026,03;Disponível;2023-09-29;;;;0,00
+Apartamento;Zona Norte;116,92;328922,85;Disponível;2023-04-04;;;;0,00
+Casa;Centro;89,50;205619,98;Disponível;2023-06-06;;;;0,00
+Casa;Zona Oeste;80,62;309392,96;Alugado;2024-03-14;;2024-04-20;;1546,96
+Apartamento;Centro;70,40;147377,47;Vendido;2023-05-07;2024-08-22;;473.0;147377,47
+Comercial;Zona Leste;74,88;304746,62;Disponível;2024-02-09;;;;0,00
+Comercial;Centro;115,45;537590,62;Alugado;2024-02-18;;2024-05-24;;2687,95
+Comercial;Zona Leste;36,61;194413,01;Disponível;2024-02-13;;;;0,00
+Casa;Centro;64,19;177208,05;Vendido;2023-06-16;2024-06-08;;358.0;177208,05
+Apartamento;Centro;117,88;669419,30;Disponível;2023-12-06;;;;0,00
+Casa;Centro;49,56;244742,64;Disponível;2023-08-01;;;;0,00
+Casa;Zona Oeste;61,12;364121,18;Disponível;2023-12-17;;;;0,00
+Comercial;Zona Sul;112,42;648565,59;Alugado;2023-04-26;;2024-07-06;;3242,83
+Comercial;Zona Oeste;67,92;259008,17;Alugado;2023-08-12;;2024-06-24;;1295,04
+Comercial;Centro;119,83;530046,44;Vendido;2023-04-02;2024-12-08;;616.0;530046,44
+Apartamento;Zona Leste;32,79;88615,96;Alugado;2023-04-29;;2024-07-08;;443,08
+Apartamento;Zona Leste;101,45;302459,99;Disponível;2023-07-26;;;;0,00
+Casa;Centro;33,86;191900,53;Vendido;2023-05-07;2024-08-15;;466.0;191900,53
+Comercial;Zona Oeste;37,74;157129,36;Disponível;2023-05-10;;;;0,00
+Apartamento;Zona Norte;30,02;177778,14;Alugado;2023-05-16;;2024-08-16;;888,89
+Comercial;Zona Norte;49,74;164038,54;Vendido;2023-10-30;2025-03-13;;500.0;164038,54
+Comercial;Zona Sul;116,98;394350,11;Disponível;2024-03-11;;;;0,00
+Apartamento;Zona Norte;105,81;336824,97;Disponível;2024-02-16;;;;0,00
+Comercial;Zona Sul;104,81;301829,74;Disponível;2023-06-10;;;;0,00
+Casa;Zona Oeste;40,20;221250,35;Disponível;2023-12-03;;;;0,00
+Comercial;Zona Sul;67,43;217606,72;Vendido;2023-08-02;2024-08-12;;376.0;217606,72
+Apartamento;Zona Norte;34,63;55211,30;Vendido;2023-05-24;2024-05-08;;350.0;55211,30
+Apartamento;Zona Sul;33,34;129359,87;Disponível;2023-07-01;;;;0,00
+Comercial;Zona Norte;31,33;167078,19;Vendido;2023-03-26;2024-09-17;;541.0;167078,19
+Comercial;Centro;89,01;333950,39;Vendido;2023-11-23;2024-11-15;;358.0;333950,39
+Comercial;Zona Norte;61,16;284101,04;Vendido;2024-02-14;2025-02-17;;369.0;284101,04
+Casa;Centro;78,92;161493,21;Disponível;2024-01-18;;;;0,00
+Comercial;Zona Oeste;77,75;183767,57;Disponível;2024-01-29;;;;0,00
+Apartamento;Centro;119,62;232591,52;Alugado;2023-11-30;;2024-07-19;;1162,96
+Comercial;Centro;101,49;520871,04;Disponível;2024-02-08;;;;0,00
+Comercial;Zona Norte;60,14;265460,97;Vendido;2023-05-02;2024-07-05;;430.0;265460,97
+Casa;Zona Norte;107,64;376933,75;Disponível;2023-04-16;;;;0,00
+Apartamento;Zona Sul;81,36;453573,86;Vendido;2023-10-13;2024-09-29;;352.0;453573,86
+Casa;Zona Leste;99,66;249359,29;Vendido;2023-12-13;2024-10-22;;314.0;249359,29
+Casa;Zona Leste;101,26;580697,75;Disponível;2023-04-27;;;;0,00
+Comercial;Zona Sul;103,78;190376,11;Alugado;2024-01-09;;2024-08-27;;951,88
+Comercial;Centro;89,32;166049,45;Disponível;2023-06-16;;;;0,00
+Casa;Centro;104,50;452017,88;Disponível;2023-08-02;;;;0,00
+Apartamento;Zona Norte;69,54;215513,50;Vendido;2024-01-08;2024-11-26;;323.0;215513,50
+Comercial;Zona Norte;40,67;192400,82;Disponível;2024-02-24;;;;0,00
+Apartamento;Zona Norte;55,94;212499,28;Vendido;2023-05-26;2025-01-25;;610.0;212499,28
+Apartamento;Centro;119,00;344714,44;Disponível;2023-10-15;;;;0,00
+Apartamento;Zona Sul;113,83;603888,64;Vendido;2023-06-02;2025-03-15;;652.0;603888,64
+Comercial;Zona Leste;37,36;77824,24;Vendido;2024-02-13;2024-11-12;;273.0;77824,24
+Comercial;Zona Sul;109,32;290667,67;Disponível;2024-03-16;;;;0,00
+Comercial;Zona Oeste;98,07;151238,65;Disponível;2023-09-20;;;;0,00
+Comercial;Zona Leste;41,83;92208,38;Disponível;2023-04-10;;;;0,00
+Casa;Zona Norte;34,07;111002,79;Vendido;2023-06-21;2024-09-13;;450.0;111002,79
+Comercial;Zona Sul;88,62;437302,48;Vendido;2023-09-19;2025-03-06;;534.0;437302,48
+Apartamento;Zona Leste;37,48;104182,03;Alugado;2024-03-16;;2025-03-06;;520,91
+Comercial;Zona Sul;81,35;340754,81;Vendido;2024-02-11;2024-09-14;;216.0;340754,81
+Apartamento;Centro;40,98;179380,11;Alugado;2024-02-20;;2024-07-06;;896,90
+Casa;Zona Sul;64,66;334521,10;Disponível;2023-06-02;;;;0,00
+Casa;Centro;98,42;464846,52;Alugado;2023-05-16;;2024-09-13;;2324,23
+Casa;Zona Norte;86,41;267522,77;Vendido;2023-10-12;2024-11-04;;389.0;267522,77
+Apartamento;Zona Norte;117,39;587326,82;Disponível;2024-01-26;;;;0,00
+Comercial;Zona Leste;98,20;269770,13;Disponível;2024-02-16;;;;0,00
+Casa;Zona Norte;76,17;389787,79;Vendido;2024-01-21;2024-04-21;;91.0;389787,79
+Casa;Zona Sul;56,57;338695,90;Disponível;2023-04-22;;;;0,00
+Apartamento;Zona Sul;40,54;208901,40;Alugado;2024-03-09;;2024-10-01;;1044,51
+Casa;Zona Leste;54,17;271532,00;Disponível;2023-10-07;;;;0,00
+Comercial;Zona Leste;103,27;484019,26;Vendido;2023-10-03;2024-11-15;;409.0;484019,26
+Apartamento;Zona Oeste;104,68;376229,34;Alugado;2023-11-01;;2024-11-06;;1881,15
+Apartamento;Zona Oeste;118,11;310163,95;Disponível;2024-01-25;;;;0,00
+Apartamento;Zona Oeste;92,89;450017,68;Vendido;2023-05-13;2024-05-10;;363.0;450017,68
+Casa;Centro;114,12;311908,22;Disponível;2023-04-08;;;;0,00
+Apartamento;Zona Norte;88,68;137227,87;Disponível;2023-05-19;;;;0,00
+Apartamento;Zona Oeste;35,60;103268,84;Alugado;2023-04-12;;2024-09-05;;516,34
+Comercial;Zona Leste;57,76;137465,91;Disponível;2023-03-31;;;;0,00
+Comercial;Zona Oeste;37,25;151299,44;Disponível;2023-09-01;;;;0,00
+Casa;Centro;37,69;192065,22;Vendido;2023-08-08;2025-03-06;;576.0;192065,22
+Apartamento;Centro;95,71;444119,28;Disponível;2024-01-05;;;;0,00
+Apartamento;Zona Sul;67,50;347321,25;Alugado;2024-02-06;;2024-07-04;;1736,61
+Apartamento;Zona Oeste;102,67;304901,15;Disponível;2023-11-14;;;;0,00
+Comercial;Zona Norte;97,79;575705,38;Alugado;2023-07-01;;2025-01-26;;2878,53
+Apartamento;Zona Oeste;107,09;307804,50;Alugado;2024-01-06;;2025-02-25;;1539,02
+Apartamento;Zona Norte;68,15;315300,06;Vendido;2023-04-06;2024-09-28;;541.0;315300,06
+Casa;Zona Sul;46,22;204528,58;Disponível;2023-12-25;;;;0,00
+Comercial;Zona Norte;58,11;144407,42;Disponível;2024-02-03;;;;0,00
+Casa;Zona Oeste;65,17;150486,65;Vendido;2023-05-20;2024-12-03;;563.0;150486,65
+Casa;Zona Oeste;43,12;203140,48;Vendido;2023-06-22;2025-01-03;;561.0;203140,48
+Apartamento;Zona Norte;113,77;235524,38;Disponível;2023-05-29;;;;0,00
+Comercial;Zona Leste;110,10;516682,79;Vendido;2023-11-17;2024-08-23;;280.0;516682,79
+Comercial;Zona Sul;104,98;315901,62;Disponível;2023-12-15;;;;0,00
+Casa;Centro;30,56;79474,03;Disponível;2023-11-23;;;;0,00
+Apartamento;Zona Norte;114,91;642431,93;Alugado;2024-02-10;;2025-02-13;;3212,16
+Comercial;Zona Oeste;31,84;137537,34;Vendido;2023-11-22;2024-11-17;;361.0;137537,34
+Comercial;Zona Norte;101,14;569226,03;Vendido;2023-05-10;2024-10-09;;518.0;569226,03
+Comercial;Zona Sul;116,07;637592,24;Vendido;2023-11-29;2024-12-03;;370.0;637592,24
+Casa;Centro;106,88;393350,46;Vendido;2023-11-04;2024-05-28;;206.0;393350,46
+Comercial;Zona Oeste;54,76;154181,71;Vendido;2023-04-13;2024-11-21;;588.0;154181,71
+Apartamento;Zona Leste;109,38;587240,44;Disponível;2023-09-10;;;;0,00
+Apartamento;Centro;116,71;387079,22;Disponível;2023-11-14;;;;0,00
+Comercial;Zona Sul;92,25;202622,51;Disponível;2023-08-26;;;;0,00
+Comercial;Zona Norte;60,98;284741,23;Disponível;2023-03-31;;;;0,00
+Casa;Zona Norte;109,88;634340,54;Vendido;2024-01-25;2024-04-18;;84.0;634340,54
+Apartamento;Zona Sul;97,10;376609,15;Alugado;2023-08-12;;2025-03-18;;1883,05
+Casa;Zona Norte;112,81;204197,38;Disponível;2023-08-03;;;;0,00
+Casa;Zona Norte;105,58;527951,73;Vendido;2023-06-09;2024-07-11;;398.0;527951,73
+Casa;Zona Sul;114,56;533738,48;Vendido;2024-02-23;2024-10-16;;236.0;533738,48
+Apartamento;Zona Norte;85,19;469211,19;Disponível;2023-03-30;;;;0,00
+Comercial;Zona Oeste;67,28;327057,50;Disponível;2024-01-10;;;;0,00
+Comercial;Zona Norte;105,42;589420,09;Vendido;2023-05-09;2024-04-01;;328.0;589420,09
+Comercial;Zona Sul;68,16;296588,02;Vendido;2024-01-30;2024-10-22;;266.0;296588,02
+Comercial;Zona Norte;62,06;253420,15;Vendido;2023-11-13;2024-06-26;;226.0;253420,15
+Apartamento;Zona Sul;95,50;552200,10;Vendido;2023-04-24;2024-11-16;;572.0;552200,10
+Casa;Zona Leste;90,63;406642,31;Vendido;2023-04-23;2024-09-19;;515.0;406642,31
+Apartamento;Zona Norte;94,89;388372,43;Disponível;2023-06-08;;;;0,00
+Comercial;Centro;44,46;184145,32;Alugado;2023-05-31;;2024-03-31;;920,73
+Casa;Centro;104,89;425635,23;Alugado;2023-06-11;;2024-10-21;;2128,18
+Casa;Centro;119,09;330375,91;Disponível;2023-04-10;;;;0,00
+Comercial;Centro;110,23;267847,88;Vendido;2023-09-02;2024-05-11;;252.0;267847,88
+Comercial;Zona Oeste;115,89;389944,35;Disponível;2023-09-04;;;;0,00
+Comercial;Zona Leste;35,36;66502,26;Alugado;2023-11-20;;2024-05-08;;332,51
+Comercial;Zona Leste;78,31;270195,34;Alugado;2023-04-08;;2024-05-28;;1350,98
+Apartamento;Zona Norte;36,07;206049,51;Disponível;2024-01-15;;;;0,00
+Comercial;Centro;77,84;348266,28;Vendido;2023-10-05;2024-09-24;;355.0;348266,28
+Apartamento;Zona Sul;32,99;163571,68;Disponível;2023-06-23;;;;0,00
+Apartamento;Zona Oeste;63,68;220523,84;Disponível;2023-09-15;;;;0,00
+Comercial;Zona Sul;54,79;185498,67;Vendido;2023-03-30;2025-03-05;;706.0;185498,67
+Casa;Zona Oeste;59,22;113464,93;Alugado;2024-03-08;;2024-06-03;;567,32
+Casa;Zona Norte;116,31;274396,23;Vendido;2023-06-11;2025-02-06;;606.0;274396,23
+Apartamento;Centro;117,80;414056,40;Alugado;2023-10-29;;2024-05-17;;2070,28
+Casa;Zona Sul;75,88;155494,81;Disponível;2023-11-09;;;;0,00
+Casa;Zona Leste;39,86;206550,53;Vendido;2023-07-15;2024-09-21;;434.0;206550,53
+Comercial;Centro;95,97;201489,97;Alugado;2023-07-10;;2024-06-03;;1007,45
+Casa;Zona Leste;92,23;183997,01;Vendido;2023-11-02;2024-06-28;;239.0;183997,01
+Comercial;Zona Oeste;97,62;160942,19;Vendido;2023-06-12;2024-10-04;;480.0;160942,19
+Comercial;Zona Sul;54,81;265257,93;Vendido;2024-02-10;2024-12-30;;324.0;265257,93
+Comercial;Zona Oeste;97,92;162486,49;Disponível;2023-03-27;;;;0,00
+Apartamento;Zona Norte;84,02;490771,74;Vendido;2024-02-20;2024-12-04;;288.0;490771,74
+Comercial;Zona Leste;34,88;197993,88;Disponível;2024-01-16;;;;0,00
+Comercial;Zona Leste;97,01;448484,99;Alugado;2024-02-12;;2024-12-12;;2242,42
+Apartamento;Zona Sul;118,86;322296,02;Disponível;2023-11-18;;;;0,00
+Comercial;Zona Sul;32,32;172572,32;Vendido;2024-01-03;2024-08-26;;236.0;172572,32
+Casa;Zona Oeste;92,73;181509,70;Disponível;2023-06-05;;;;0,00
+Apartamento;Zona Leste;117,85;580413,61;Disponível;2023-08-08;;;;0,00
+Comercial;Centro;81,07;405459,44;Vendido;2023-12-31;2025-02-17;;414.0;405459,44
+Apartamento;Zona Norte;89,02;288278,81;Disponível;2023-05-06;;;;0,00
+Apartamento;Zona Norte;61,38;261534,04;Alugado;2023-04-20;;2024-08-06;;1307,67
+Casa;Zona Oeste;44,39;253660,44;Alugado;2024-02-26;;2024-08-16;;1268,30
+Comercial;Zona Leste;117,97;521183,20;Vendido;2023-10-19;2024-07-31;;286.0;521183,20
+Casa;Centro;78,87;398907,90;Disponível;2023-07-18;;;;0,00
+Comercial;Zona Leste;50,46;175482,72;Vendido;2023-11-27;2024-05-01;;156.0;175482,72
+Comercial;Zona Sul;58,17;331615,54;Vendido;2023-09-24;2024-10-06;;378.0;331615,54
+Comercial;Zona Norte;30,45;63718,76;Disponível;2023-12-24;;;;0,00
+Comercial;Zona Norte;50,90;95714,90;Vendido;2023-08-30;2024-10-26;;423.0;95714,90
+Comercial;Zona Leste;34,86;203609,59;Vendido;2023-09-14;2024-04-03;;202.0;203609,59
+Apartamento;Centro;104,40;249009,66;Alugado;2023-12-21;;2025-01-07;;1245,05
+Comercial;Zona Leste;59,12;244370,16;Disponível;2023-07-15;;;;0,00
+Casa;Zona Norte;108,35;368732,39;Vendido;2023-09-19;2024-07-25;;310.0;368732,39
+Comercial;Zona Norte;96,76;174499,89;Alugado;2024-02-24;;2024-12-28;;872,50
+Comercial;Zona Leste;79,32;413335,73;Disponível;2023-12-09;;;;0,00
+Comercial;Zona Leste;99,11;556588,88;Disponível;2023-08-18;;;;0,00
+Casa;Zona Oeste;112,44;566123,03;Disponível;2023-12-03;;;;0,00
+Apartamento;Zona Norte;38,47;60731,43;Disponível;2024-03-20;;;;0,00
+Comercial;Zona Norte;93,03;484479,77;Disponível;2023-04-03;;;;0,00
+Comercial;Zona Sul;49,92;127772,24;Alugado;2023-04-08;;2024-11-18;;638,86
+Comercial;Zona Norte;117,01;281087,27;Vendido;2024-02-20;2024-08-10;;172.0;281087,27
+Casa;Centro;56,65;220140,20;Vendido;2024-02-05;2024-04-06;;61.0;220140,20
+Apartamento;Zona Oeste;91,38;243419,87;Vendido;2023-07-02;2024-09-05;;431.0;243419,87
+Casa;Zona Oeste;39,85;188706,49;Disponível;2023-10-31;;;;0,00
+Apartamento;Centro;85,64;425949,38;Vendido;2023-11-02;2025-01-20;;445.0;425949,38
+Comercial;Zona Leste;81,27;167078,12;Alugado;2023-10-26;;2024-08-27;;835,39
+Casa;Zona Leste;68,25;276151,10;Vendido;2023-08-15;2025-01-28;;532.0;276151,10
+Casa;Zona Norte;56,76;150069,47;Disponível;2023-07-26;;;;0,00
+Casa;Zona Leste;109,43;531547,47;Vendido;2023-06-19;2024-08-13;;421.0;531547,47
+Comercial;Zona Oeste;96,09;370732,52;Disponível;2023-05-24;;;;0,00
+Apartamento;Centro;118,15;332370,13;Disponível;2023-05-24;;;;0,00
+Comercial;Zona Norte;118,16;483809,66;Vendido;2023-12-06;2024-05-19;;165.0;483809,66
+Casa;Centro;91,16;149933,59;Alugado;2023-05-29;;2025-03-04;;749,67
+Comercial;Zona Leste;79,29;195650,45;Alugado;2023-04-01;;2024-10-05;;978,25
+Comercial;Centro;118,60;222010,90;Vendido;2023-04-04;2024-11-30;;606.0;222010,90
+Casa;Zona Leste;32,38;101753,18;Alugado;2023-12-22;;2024-07-29;;508,77
+Apartamento;Zona Oeste;72,69;290062,18;Disponível;2023-10-28;;;;0,00
+Comercial;Zona Sul;51,31;81178,06;Alugado;2023-07-08;;2024-11-30;;405,89
+Apartamento;Zona Oeste;116,06;673575,10;Vendido;2024-03-06;2024-10-12;;220.0;673575,10
+Casa;Zona Leste;106,92;170343,87;Vendido;2023-04-05;2024-07-13;;465.0;170343,87
+Apartamento;Zona Norte;87,95;378907,95;Disponível;2024-02-19;;;;0,00
+Casa;Zona Leste;104,83;268125,79;Alugado;2023-04-20;;2024-10-15;;1340,63
+Comercial;Zona Leste;46,79;186419,78;Vendido;2023-09-05;2024-07-12;;311.0;186419,78
+Casa;Zona Norte;57,24;230732,72;Vendido;2023-07-24;2024-05-27;;308.0;230732,72
+Apartamento;Zona Sul;54,75;235284,84;Disponível;2024-03-10;;;;0,00
+Comercial;Centro;100,70;240488,72;Alugado;2023-07-06;;2024-06-07;;1202,44
+Apartamento;Zona Oeste;65,04;165697,86;Disponível;2023-05-27;;;;0,00
+Apartamento;Zona Leste;95,40;340236,47;Disponível;2023-09-02;;;;0,00
+Casa;Zona Leste;93,74;542684,29;Vendido;2024-03-03;2025-01-14;;317.0;542684,29
+Comercial;Zona Sul;36,59;70137,18;Vendido;2024-01-19;2025-01-16;;363.0;70137,18
+Casa;Zona Sul;102,62;311813,95;Vendido;2023-06-06;2024-08-16;;437.0;311813,95
+Comercial;Centro;102,03;422186,88;Vendido;2023-08-03;2024-11-20;;475.0;422186,88
+Casa;Zona Oeste;89,66;265832,04;Vendido;2023-12-21;2024-03-22;;92.0;265832,04
+Apartamento;Zona Oeste;117,73;204821,94;Alugado;2024-02-05;;2024-12-12;;1024,11
+Comercial;Zona Leste;33,72;137271,76;Disponível;2023-10-15;;;;0,00
+Apartamento;Zona Sul;81,63;427732,22;Vendido;2023-10-10;2024-12-07;;424.0;427732,22
+Comercial;Zona Sul;99,35;164254,36;Alugado;2024-03-16;;2024-07-19;;821,27
+Casa;Zona Norte;89,40;524660,89;Vendido;2024-02-01;2024-07-30;;180.0;524660,89
+Apartamento;Zona Norte;52,96;120165,18;Disponível;2024-01-13;;;;0,00
+Casa;Zona Oeste;108,73;312317,14;Vendido;2023-11-02;2024-11-08;;372.0;312317,14
+Comercial;Zona Norte;115,99;460655,44;Alugado;2023-09-19;;2024-11-01;;2303,28
+Apartamento;Zona Sul;63,11;229835,89;Vendido;2023-06-01;2024-07-06;;401.0;229835,89
+Apartamento;Centro;35,15;156745,80;Alugado;2024-01-09;;2024-10-10;;783,73
+Comercial;Zona Leste;46,57;89789,29;Vendido;2023-09-04;2024-07-02;;302.0;89789,29
+Comercial;Zona Sul;92,40;329928,98;Vendido;2024-03-13;2024-07-11;;120.0;329928,98
+Casa;Centro;93,94;352540,85;Disponível;2023-05-30;;;;0,00
+Comercial;Zona Leste;45,90;115621,64;Disponível;2023-05-13;;;;0,00
+Casa;Centro;35,13;136922,69;Disponível;2023-03-27;;;;0,00
+Comercial;Centro;44,75;158963,19;Alugado;2023-12-02;;2024-11-06;;794,82
+Casa;Centro;63,61;134277,53;Alugado;2023-08-10;;2024-06-18;;671,39
+Apartamento;Centro;36,30;72668,24;Alugado;2023-08-19;;2024-10-25;;363,34
+Comercial;Zona Leste;71,35;276735,26;Vendido;2023-05-23;2024-09-05;;471.0;276735,26
+Apartamento;Zona Oeste;35,43;157174,57;Disponível;2023-06-19;;;;0,00
+Apartamento;Zona Norte;49,25;246250,00;Vendido;2024-03-10;2024-06-14;;96.0;246250,00
+Casa;Zona Leste;100,31;414581,23;Vendido;2023-08-20;2024-11-30;;468.0;414581,23
+Comercial;Zona Oeste;65,75;327244,98;Alugado;2024-02-17;;2024-08-05;;1636,22
+Comercial;Zona Oeste;104,63;422913,41;Vendido;2023-07-20;2024-09-02;;410.0;422913,41
+Comercial;Zona Oeste;38,52;143229,69;Vendido;2023-10-08;2024-05-20;;225.0;143229,69
+Apartamento;Zona Oeste;97,28;457484,49;Disponível;2023-10-25;;;;0,00
+Comercial;Zona Sul;102,12;225226,68;Disponível;2023-10-20;;;;0,00
+Apartamento;Zona Norte;60,55;340671,25;Vendido;2023-07-27;2024-11-09;;471.0;340671,25
+Comercial;Centro;114,41;576096,68;Disponível;2023-09-24;;;;0,00
+Comercial;Zona Sul;53,06;306108,98;Vendido;2023-08-02;2024-04-15;;257.0;306108,98
+Apartamento;Centro;43,73;96650,30;Alugado;2023-05-01;;2025-01-11;;483,25
+Apartamento;Zona Norte;79,17;422348,99;Disponível;2023-11-27;;;;0,00
+Casa;Zona Leste;61,37;202101,23;Vendido;2023-09-26;2024-11-17;;418.0;202101,23
+Apartamento;Zona Sul;43,39;209394,50;Vendido;2023-09-12;2025-01-17;;493.0;209394,50
+Comercial;Zona Leste;32,99;196600,61;Vendido;2024-02-24;2025-01-28;;339.0;196600,61
+Casa;Zona Oeste;118,55;693536,47;Disponível;2023-04-01;;;;0,00
+Casa;Zona Oeste;58,03;334892,87;Disponível;2023-04-15;;;;0,00
+Apartamento;Zona Oeste;53,86;282043,28;Vendido;2023-08-06;2024-04-20;;258.0;282043,28
+Casa;Zona Leste;51,29;90682,77;Alugado;2023-07-15;;2024-08-02;;453,41
+Casa;Zona Oeste;37,75;208306,77;Disponível;2023-10-07;;;;0,00
+Comercial;Zona Leste;115,48;514219,74;Vendido;2023-05-09;2025-01-06;;608.0;514219,74
+Apartamento;Zona Norte;58,20;330657,48;Alugado;2023-08-11;;2024-06-21;;1653,29
+Comercial;Zona Oeste;30,08;117311,10;Disponível;2023-09-25;;;;0,00
+Apartamento;Zona Oeste;55,45;164768,01;Vendido;2023-12-04;2024-07-22;;231.0;164768,01
+Casa;Zona Oeste;113,49;652443,80;Vendido;2023-10-12;2024-09-04;;328.0;652443,80
+Comercial;Centro;97,29;368629,86;Vendido;2023-09-10;2025-02-27;;536.0;368629,86
+Apartamento;Zona Oeste;109,68;418383,13;Disponível;2023-03-31;;;;0,00
+Apartamento;Zona Norte;47,84;207961,92;Alugado;2023-05-25;;2024-06-27;;1039,81
+Apartamento;Zona Leste;92,61;332143,91;Vendido;2023-05-29;2024-04-11;;318.0;332143,91
+Apartamento;Zona Norte;43,30;176510,72;Vendido;2023-12-13;2024-10-11;;303.0;176510,72
+Casa;Zona Oeste;80,13;217364,64;Vendido;2024-01-10;2024-10-28;;292.0;217364,64
+Comercial;Zona Leste;54,68;314303,92;Disponível;2024-02-23;;;;0,00
+Apartamento;Zona Norte;31,38;134910,78;Vendido;2024-03-05;2024-09-23;;202.0;134910,78
+Apartamento;Zona Norte;56,25;283525,88;Vendido;2023-11-13;2024-08-04;;265.0;283525,88
+Comercial;Zona Norte;42,60;248506,67;Alugado;2023-06-25;;2024-08-24;;1242,53
+Apartamento;Zona Sul;38,74;143075,73;Disponível;2023-09-15;;;;0,00
+Casa;Zona Sul;107,67;394590,09;Vendido;2023-11-08;2024-04-08;;152.0;394590,09
+Apartamento;Centro;43,27;248481,44;Alugado;2023-06-12;;2024-07-25;;1242,41
+Comercial;Zona Norte;60,63;198726,95;Disponível;2023-12-07;;;;0,00
+Casa;Zona Oeste;79,74;360644,08;Alugado;2023-07-03;;2024-07-09;;1803,22
+Apartamento;Zona Oeste;55,48;172645,44;Vendido;2023-10-03;2024-04-13;;193.0;172645,44
+Comercial;Centro;40,42;68557,98;Disponível;2024-02-02;;;;0,00
+Apartamento;Zona Oeste;63,45;188338,64;Vendido;2023-06-23;2025-01-15;;572.0;188338,64
+Casa;Zona Norte;102,01;399912,86;Disponível;2023-05-11;;;;0,00
+Comercial;Centro;40,32;73275,15;Vendido;2023-10-20;2024-07-21;;275.0;73275,15
+Apartamento;Centro;88,64;158843,77;Disponível;2023-05-11;;;;0,00
+Comercial;Zona Sul;43,31;257601,38;Alugado;2023-11-23;;2025-03-04;;1288,01
+Casa;Zona Norte;80,47;364088,12;Alugado;2023-11-17;;2024-07-03;;1820,44
+Apartamento;Zona Oeste;96,79;454894,61;Alugado;2024-02-01;;2024-07-04;;2274,47
+Apartamento;Zona Norte;100,06;579948,76;Alugado;2023-09-07;;2024-10-25;;2899,74
+Apartamento;Centro;85,54;180967,57;Alugado;2024-01-27;;2024-03-31;;904,84
+Apartamento;Centro;77,75;419107,49;Disponível;2023-06-18;;;;0,00
+Casa;Zona Sul;45,59;208255,58;Alugado;2024-02-22;;2024-10-07;;1041,28
+Comercial;Zona Leste;64,13;262613,63;Disponível;2023-04-19;;;;0,00
+Comercial;Centro;115,99;657259,65;Vendido;2024-03-05;2024-07-08;;125.0;657259,65
+Comercial;Zona Norte;35,47;200078,82;Vendido;2024-03-07;2024-05-31;;85.0;200078,82
+Casa;Zona Norte;78,79;374261,95;Alugado;2023-11-11;;2024-11-29;;1871,31
+Casa;Zona Oeste;51,21;183629,33;Disponível;2023-10-03;;;;0,00
+Comercial;Centro;77,70;348430,89;Vendido;2023-06-03;2024-06-22;;385.0;348430,89
+Casa;Zona Norte;47,33;190501,83;Alugado;2023-07-10;;2024-12-07;;952,51
+Comercial;Zona Norte;36,39;143406,08;Disponível;2023-10-07;;;;0,00
+Comercial;Zona Leste;68,95;281809,68;Alugado;2023-12-18;;2025-03-01;;1409,05
+Comercial;Zona Norte;59,42;99964,05;Vendido;2023-07-12;2024-03-26;;258.0;99964,05
+Comercial;Centro;84,17;431945,29;Disponível;2024-03-04;;;;0,00
+Comercial;Centro;78,54;403880,17;Vendido;2023-09-15;2024-12-22;;464.0;403880,17
+Comercial;Zona Norte;77,38;374392,30;Vendido;2023-08-10;2024-09-16;;403.0;374392,30
+Comercial;Zona Oeste;100,66;411462,85;Disponível;2024-01-17;;;;0,00
+Apartamento;Centro;45,02;122934,31;Disponível;2024-03-20;;;;0,00
+Casa;Zona Oeste;64,84;128947,31;Vendido;2024-03-05;2024-05-17;;73.0;128947,31
+Comercial;Zona Oeste;53,65;305985,80;Disponível;2023-09-08;;;;0,00
+Comercial;Zona Sul;40,72;155375,30;Disponível;2024-01-05;;;;0,00
+Apartamento;Zona Oeste;107,72;279992,29;Disponível;2023-06-03;;;;0,00
+Comercial;Zona Norte;46,12;241979,19;Disponível;2024-03-02;;;;0,00
+Apartamento;Centro;38,38;210412,59;Disponível;2024-03-20;;;;0,00
+Comercial;Centro;41,07;85858,89;Disponível;2023-06-09;;;;0,00
+Comercial;Zona Leste;95,07;361998,04;Alugado;2024-02-13;;2024-07-12;;1809,99
+Casa;Zona Sul;33,74;152633,69;Vendido;2024-02-18;2024-04-02;;44.0;152633,69
+Comercial;Zona Leste;77,86;387510,78;Disponível;2024-01-13;;;;0,00
+Comercial;Zona Leste;83,60;170454,55;Vendido;2024-01-09;2024-08-25;;229.0;170454,55
+Casa;Zona Norte;52,71;93944,51;Disponível;2023-08-21;;;;0,00
+Casa;Centro;77,56;459114,87;Disponível;2023-09-19;;;;0,00
+Comercial;Zona Sul;81,55;425721,99;Disponível;2023-06-05;;;;0,00
+Apartamento;Zona Leste;90,66;208751,90;Alugado;2023-09-03;;2024-05-27;;1043,76
+Apartamento;Zona Norte;55,75;311903,97;Vendido;2023-04-02;2025-02-19;;689.0;311903,97
+Comercial;Zona Leste;117,16;316499,54;Disponível;2023-12-24;;;;0,00
+Casa;Centro;98,35;374480,41;Alugado;2023-09-25;;2025-01-20;;1872,40
+Casa;Centro;68,59;279243,61;Disponível;2023-07-13;;;;0,00
+Apartamento;Zona Oeste;113,34;307461,95;Disponível;2023-06-11;;;;0,00
+Comercial;Zona Oeste;106,33;194949,68;Disponível;2023-10-07;;;;0,00
+Apartamento;Zona Leste;102,31;468525,58;Alugado;2023-09-19;;2025-01-25;;2342,63
+Comercial;Zona Sul;101,19;176388,34;Disponível;2023-07-19;;;;0,00
+Apartamento;Zona Oeste;65,08;354119,15;Alugado;2023-08-05;;2024-06-04;;1770,60
+Comercial;Zona Leste;119,78;392121,39;Vendido;2023-05-10;2025-02-02;;634.0;392121,39
+Comercial;Zona Sul;66,74;189705,11;Vendido;2023-08-24;2024-09-10;;383.0;189705,11
+Comercial;Zona Oeste;60,19;331031,76;Disponível;2023-05-22;;;;0,00
+Casa;Centro;62,29;297553,72;Alugado;2023-09-30;;2024-10-23;;1487,77
+Apartamento;Zona Leste;100,54;253282,38;Disponível;2023-10-15;;;;0,00
+Comercial;Zona Norte;68,50;149205,33;Vendido;2024-03-12;2024-09-22;;194.0;149205,33
+Comercial;Centro;87,74;471848,17;Alugado;2024-01-22;;2025-03-13;;2359,24
+Comercial;Zona Norte;74,35;120196,44;Vendido;2023-05-25;2024-03-31;;311.0;120196,44
+Apartamento;Zona Oeste;39,74;182587,42;Disponível;2023-08-02;;;;0,00
+Apartamento;Zona Oeste;68,23;246607,10;Alugado;2023-04-08;;2025-01-02;;1233,04
+Apartamento;Zona Sul;72,91;279673,28;Disponível;2024-02-15;;;;0,00
+Casa;Zona Oeste;92,72;297423,51;Disponível;2023-07-16;;;;0,00
+Comercial;Centro;59,94;325374,10;Disponível;2023-08-21;;;;0,00
+Apartamento;Centro;52,77;131377,78;Vendido;2023-11-02;2025-01-20;;445.0;131377,78
+Apartamento;Zona Sul;68,83;218343,21;Vendido;2023-05-16;2024-07-02;;413.0;218343,21
+Comercial;Zona Norte;47,78;89407,37;Vendido;2024-02-18;2025-01-06;;323.0;89407,37
+Comercial;Zona Norte;77,80;316564,31;Disponível;2023-03-23;;;;0,00
+Casa;Zona Norte;39,88;169373,15;Vendido;2024-02-24;2024-12-22;;302.0;169373,15
+Apartamento;Zona Sul;53,68;213388,20;Disponível;2024-02-23;;;;0,00
+Apartamento;Zona Norte;66,48;220954,26;Disponível;2023-05-11;;;;0,00
+Comercial;Centro;86,60;180072,58;Disponível;2024-01-16;;;;0,00
+Casa;Centro;83,87;232795,44;Disponível;2023-12-25;;;;0,00
+Comercial;Zona Oeste;55,12;201174,77;Vendido;2023-07-07;2025-01-12;;555.0;201174,77
+Comercial;Centro;59,45;154590,21;Vendido;2023-10-13;2024-04-07;;177.0;154590,21
+Comercial;Zona Leste;70,20;113987,25;Vendido;2023-12-29;2024-07-08;;192.0;113987,25
+Comercial;Zona Leste;69,97;328112,42;Disponível;2023-06-26;;;;0,00
+Apartamento;Zona Sul;63,79;259814,12;Alugado;2023-10-08;;2024-07-12;;1299,07
+Casa;Centro;54,62;105257,11;Vendido;2023-09-28;2024-11-20;;419.0;105257,11
+Apartamento;Zona Oeste;41,37;104935,83;Disponível;2023-04-13;;;;0,00
+Casa;Zona Sul;104,89;177909,17;Vendido;2023-08-27;2024-04-28;;245.0;177909,17
+Comercial;Zona Sul;104,71;464340,68;Disponível;2023-05-27;;;;0,00
+Comercial;Zona Norte;83,89;244318,72;Vendido;2023-06-24;2025-02-09;;596.0;244318,72
+Casa;Zona Norte;98,67;298217,25;Vendido;2024-01-14;2024-04-08;;85.0;298217,25
+Comercial;Zona Sul;107,07;223852,32;Disponível;2023-04-02;;;;0,00
+Apartamento;Zona Sul;46,36;254492,29;Vendido;2023-11-18;2024-07-15;;240.0;254492,29
+Casa;Zona Oeste;38,24;212048,07;Disponível;2023-12-22;;;;0,00
+Apartamento;Centro;66,56;374784,05;Disponível;2024-01-28;;;;0,00
+Casa;Zona Norte;47,57;198393,54;Vendido;2023-05-27;2024-08-04;;435.0;198393,54
+Comercial;Zona Oeste;89,05;462530,15;Disponível;2023-11-28;;;;0,00
+Comercial;Zona Sul;67,51;399327,05;Vendido;2024-02-09;2024-09-18;;222.0;399327,05
+Comercial;Zona Norte;54,62;84187,99;Disponível;2024-01-15;;;;0,00
+Casa;Zona Oeste;37,29;155404,58;Alugado;2024-02-17;;2024-10-09;;777,02
+Comercial;Centro;104,35;377294,12;Vendido;2023-12-01;2024-11-16;;351.0;377294,12
+Apartamento;Zona Sul;53,38;205326,17;Disponível;2023-04-25;;;;0,00
+Casa;Zona Oeste;62,50;160826,88;Alugado;2023-10-29;;2024-11-30;;804,13
+Casa;Zona Norte;109,70;417162,77;Disponível;2023-09-15;;;;0,00
+Apartamento;Zona Sul;49,13;138321,58;Disponível;2023-05-24;;;;0,00
+Apartamento;Zona Norte;85,39;192119,81;Alugado;2024-02-11;;2024-12-24;;960,60
+Comercial;Zona Sul;73,92;337826,23;Alugado;2023-06-15;;2024-06-13;;1689,13
+Casa;Centro;98,89;157084,79;Disponível;2024-03-16;;;;0,00
+Comercial;Zona Sul;56,86;213491,10;Disponível;2024-01-02;;;;0,00
+Comercial;Zona Norte;59,72;317332,37;Alugado;2023-12-12;;2024-10-11;;1586,66
+Comercial;Centro;118,32;209085,64;Disponível;2023-07-27;;;;0,00
+Apartamento;Zona Oeste;66,74;242274,88;Vendido;2023-05-02;2024-04-23;;357.0;242274,88
+Apartamento;Centro;45,66;196763,09;Disponível;2023-09-18;;;;0,00
+Casa;Zona Sul;63,93;369724,45;Disponível;2023-03-28;;;;0,00
+Apartamento;Zona Oeste;63,03;124909,07;Disponível;2024-02-20;;;;0,00
+Apartamento;Centro;90,33;448126,23;Vendido;2023-05-31;2025-03-08;;647.0;448126,23
+Casa;Zona Sul;113,06;406168,05;Alugado;2023-05-19;;2024-10-23;;2030,84
+Comercial;Zona Sul;108,91;490564,40;Vendido;2023-07-21;2024-06-03;;318.0;490564,40
+Comercial;Zona Oeste;52,85;121175,54;Disponível;2024-03-15;;;;0,00
+Comercial;Zona Leste;108,25;375704,36;Disponível;2023-07-22;;;;0,00
+Casa;Zona Leste;65,29;241022,61;Vendido;2023-11-20;2024-06-06;;199.0;241022,61
+Casa;Zona Norte;113,57;554512,34;Alugado;2023-10-24;;2024-09-05;;2772,56
+Casa;Zona Leste;41,14;100491,03;Disponível;2023-04-01;;;;0,00
+Comercial;Centro;67,38;144771,99;Disponível;2024-03-15;;;;0,00
+Comercial;Zona Oeste;78,46;253170,80;Disponível;2023-03-28;;;;0,00
+Comercial;Centro;108,32;307901,77;Vendido;2023-10-28;2025-02-13;;474.0;307901,77
+Casa;Zona Sul;96,97;201667,54;Alugado;2023-06-16;;2025-02-27;;1008,34
+Apartamento;Zona Norte;72,47;127625,47;Disponível;2023-05-16;;;;0,00
+Casa;Centro;72,07;239480,68;Vendido;2023-07-21;2024-12-22;;520.0;239480,68
+Casa;Centro;92,52;461266,79;Alugado;2023-06-12;;2025-01-29;;2306,33
+Apartamento;Zona Norte;89,19;178944,57;Vendido;2024-02-07;2025-02-26;;385.0;178944,57
+Casa;Zona Oeste;62,98;203332,82;Vendido;2023-08-26;2024-07-07;;316.0;203332,82
+Comercial;Zona Sul;110,50;276794,76;Alugado;2024-01-01;;2024-08-03;;1383,97
+Casa;Centro;41,66;165234,81;Disponível;2024-02-29;;;;0,00
+Comercial;Zona Oeste;94,08;422480,35;Alugado;2023-11-22;;2024-04-24;;2112,40
+Apartamento;Zona Sul;98,65;361492,07;Disponível;2023-10-21;;;;0,00
+Apartamento;Centro;102,88;227987,22;Disponível;2023-10-20;;;;0,00
+Apartamento;Zona Leste;71,48;348977,51;Disponível;2023-04-06;;;;0,00
+Comercial;Zona Sul;86,60;251318,40;Alugado;2023-07-12;;2024-06-01;;1256,59
+Casa;Zona Oeste;53,01;178434,31;Vendido;2023-07-08;2025-01-09;;551.0;178434,31
+Casa;Centro;91,78;274637,88;Disponível;2024-01-11;;;;0,00
+Apartamento;Zona Oeste;56,14;237299,85;Vendido;2024-02-20;2024-12-14;;298.0;237299,85
+Apartamento;Zona Sul;70,84;256400,42;Vendido;2024-01-06;2024-12-29;;358.0;256400,42
+Casa;Zona Oeste;113,02;603088,28;Vendido;2023-05-13;2024-11-07;;544.0;603088,28
+Casa;Zona Sul;117,24;475792,75;Disponível;2023-10-05;;;;0,00
+Casa;Centro;107,18;317346,05;Alugado;2023-07-18;;2024-11-25;;1586,73
+Apartamento;Centro;84,55;410130,91;Vendido;2024-01-08;2024-05-26;;139.0;410130,91
+Comercial;Zona Leste;30,36;67892,85;Vendido;2024-02-15;2024-06-08;;114.0;67892,85
+Apartamento;Zona Norte;108,79;191071,14;Vendido;2023-04-09;2025-01-01;;633.0;191071,14
+Casa;Zona Sul;114,47;384819,52;Vendido;2023-07-04;2024-07-08;;370.0;384819,52
+Casa;Zona Sul;34,55;205432,23;Disponível;2023-04-07;;;;0,00
+Apartamento;Zona Leste;86,80;444190,32;Vendido;2023-10-12;2024-08-04;;297.0;444190,32
+Casa;Zona Norte;72,08;214864,71;Disponível;2023-10-01;;;;0,00
+Comercial;Zona Oeste;62,39;213695,73;Vendido;2023-12-04;2025-01-15;;408.0;213695,73
+Apartamento;Zona Norte;31,93;64008,79;Disponível;2023-07-17;;;;0,00
+Apartamento;Zona Sul;65,98;206005,40;Disponível;2023-09-05;;;;0,00
+Comercial;Zona Norte;46,14;218446,14;Alugado;2024-01-06;;2024-11-04;;1092,23
+Apartamento;Zona Oeste;69,49;217732,32;Disponível;2023-12-12;;;;0,00
+Comercial;Zona Norte;103,93;553970,80;Alugado;2023-12-02;;2024-06-10;;2769,85
+Comercial;Zona Sul;92,98;195408,63;Disponível;2024-01-06;;;;0,00
+Casa;Zona Leste;80,53;372353,81;Disponível;2024-02-13;;;;0,00
+Casa;Centro;88,85;320167,42;Vendido;2023-08-25;2025-03-12;;565.0;320167,42
+Comercial;Centro;37,93;141866,54;Disponível;2024-02-11;;;;0,00
+Comercial;Centro;65,36;167144,47;Alugado;2023-08-02;;2024-07-29;;835,72
+Apartamento;Zona Sul;102,56;523913,40;Disponível;2023-12-07;;;;0,00
+Comercial;Zona Leste;82,38;158043,56;Vendido;2023-08-29;2024-06-20;;296.0;158043,56
+Comercial;Zona Sul;54,93;252472,56;Vendido;2024-02-22;2024-04-21;;59.0;252472,56
+Casa;Zona Sul;81,05;166091,71;Alugado;2023-06-07;;2024-11-15;;830,46
+Casa;Zona Norte;44,27;241793,89;Disponível;2023-07-01;;;;0,00
+Apartamento;Zona Leste;96,15;309525,12;Disponível;2024-02-09;;;;0,00
+Apartamento;Centro;55,03;106626,13;Vendido;2023-09-29;2024-09-20;;357.0;106626,13
+Casa;Zona Sul;33,37;107832,15;Vendido;2023-10-14;2024-11-30;;413.0;107832,15
+Comercial;Centro;33,19;54135,55;Vendido;2023-04-11;2024-07-01;;447.0;54135,55
+Comercial;Zona Sul;81,45;207047,53;Disponível;2023-07-14;;;;0,00
+Comercial;Centro;35,02;87543,70;Vendido;2024-01-31;2024-08-14;;196.0;87543,70
+Apartamento;Zona Norte;100,56;290970,36;Disponível;2023-05-20;;;;0,00
+Apartamento;Centro;112,59;216275,26;Vendido;2023-10-16;2024-06-07;;235.0;216275,26
+Casa;Zona Leste;107,27;211036,56;Vendido;2023-10-19;2025-01-04;;443.0;211036,56
+Apartamento;Zona Leste;45,55;180157,08;Vendido;2023-06-16;2024-12-12;;545.0;180157,08
+Casa;Zona Oeste;101,84;355504,09;Vendido;2023-10-03;2024-08-26;;328.0;355504,09
+Apartamento;Centro;105,31;461489,48;Disponível;2024-01-13;;;;0,00
+Comercial;Zona Oeste;34,40;118589,18;Alugado;2023-09-04;;2024-05-20;;592,95
+Casa;Zona Norte;118,14;227832,99;Disponível;2023-09-09;;;;0,00
+Apartamento;Zona Leste;87,98;214427,50;Vendido;2023-06-02;2024-07-13;;407.0;214427,50
+Comercial;Zona Leste;71,19;298788,70;Vendido;2024-01-19;2025-03-17;;423.0;298788,70
+Casa;Zona Leste;30,60;181919,45;Alugado;2023-11-13;;2024-10-04;;909,60
+Casa;Zona Norte;80,75;177126,74;Disponível;2023-04-06;;;;0,00
+Comercial;Zona Norte;65,81;218323,36;Vendido;2023-09-30;2024-06-28;;272.0;218323,36
+Comercial;Zona Oeste;30,76;47005,28;Vendido;2023-09-24;2024-08-02;;313.0;47005,28
+Casa;Zona Sul;116,50;374368,09;Disponível;2023-05-04;;;;0,00
+Casa;Zona Oeste;85,55;240877,15;Vendido;2023-10-31;2024-11-10;;376.0;240877,15
+Comercial;Zona Oeste;97,60;426495,41;Disponível;2023-08-24;;;;0,00
+Casa;Centro;75,73;307629,65;Disponível;2023-10-12;;;;0,00
+Comercial;Zona Leste;103,10;445253,85;Alugado;2023-06-27;;2024-11-30;;2226,27
+Apartamento;Centro;87,64;318116,55;Disponível;2023-03-25;;;;0,00
+Comercial;Zona Leste;51,72;111323,68;Disponível;2024-02-04;;;;0,00
+Comercial;Centro;112,61;283137,58;Disponível;2023-11-23;;;;0,00
+Apartamento;Zona Leste;38,26;75569,24;Alugado;2023-12-27;;2024-09-18;;377,85
+Casa;Centro;46,12;123743,65;Alugado;2023-12-22;;2025-03-02;;618,72
+Apartamento;Centro;70,77;203526,74;Vendido;2023-09-16;2024-12-27;;468.0;203526,74
+Apartamento;Zona Oeste;87,66;427018,16;Alugado;2023-09-30;;2025-01-06;;2135,09
+Comercial;Zona Sul;69,71;306367,78;Alugado;2023-09-25;;2025-01-27;;1531,84
+Apartamento;Zona Leste;66,50;335083,53;Disponível;2023-11-11;;;;0,00
+Casa;Centro;33,69;153838,98;Vendido;2023-07-06;2024-12-20;;533.0;153838,98
+Apartamento;Zona Oeste;105,68;583718,20;Vendido;2023-12-12;2024-08-07;;239.0;583718,20
+Apartamento;Zona Norte;59,32;310937,05;Disponível;2023-10-30;;;;0,00
+Comercial;Zona Oeste;31,28;65791,85;Alugado;2023-05-10;;2025-01-09;;328,96
+Apartamento;Zona Oeste;116,57;639900,52;Disponível;2023-10-12;;;;0,00
+Comercial;Zona Sul;50,23;251567,41;Disponível;2023-11-11;;;;0,00
+Apartamento;Zona Leste;79,27;416337,93;Alugado;2023-12-02;;2024-03-26;;2081,69
+Apartamento;Zona Oeste;33,60;126883,34;Vendido;2023-12-12;2025-01-06;;391.0;126883,34
+Apartamento;Zona Leste;33,88;67492,01;Vendido;2024-02-01;2024-09-18;;230.0;67492,01
+Apartamento;Zona Sul;34,77;197276,98;Vendido;2023-11-17;2024-04-21;;156.0;197276,98
+Comercial;Centro;41,04;71662,41;Disponível;2023-10-15;;;;0,00
+Apartamento;Zona Oeste;60,68;241211,50;Vendido;2023-08-02;2025-02-03;;551.0;241211,50
+Casa;Zona Sul;47,11;200272,62;Vendido;2023-03-24;2024-10-05;;561.0;200272,62
+Apartamento;Centro;74,15;385242,62;Alugado;2023-04-18;;2025-02-07;;1926,21
+Comercial;Centro;85,26;366944,55;Disponível;2023-08-01;;;;0,00
+Apartamento;Zona Norte;114,37;199852,43;Disponível;2023-11-03;;;;0,00
+Comercial;Zona Sul;35,91;191806,80;Alugado;2023-06-08;;2024-07-05;;959,03
+Casa;Centro;65,33;374037,77;Disponível;2023-05-09;;;;0,00
+Apartamento;Zona Sul;90,36;283524,38;Vendido;2023-05-24;2025-03-20;;666.0;283524,38
+Casa;Zona Leste;110,30;628080,19;Alugado;2023-08-24;;2024-06-03;;3140,40
+Casa;Zona Norte;60,40;215169,56;Vendido;2023-08-12;2024-11-21;;467.0;215169,56
+Casa;Zona Sul;49,79;176122,17;Disponível;2023-10-18;;;;0,00
+Casa;Zona Leste;72,86;249783,75;Disponível;2023-06-09;;;;0,00
+Apartamento;Zona Leste;45,27;115864,49;Disponível;2024-03-02;;;;0,00
+Apartamento;Zona Norte;34,82;66481,13;Disponível;2023-05-26;;;;0,00
+Casa;Zona Norte;42,37;87424,99;Disponível;2024-02-26;;;;0,00
+Apartamento;Zona Leste;32,20;61708,72;Alugado;2023-06-01;;2024-07-25;;308,54
+Apartamento;Zona Norte;118,38;501301,42;Vendido;2024-01-17;2025-01-31;;380.0;501301,42
+Comercial;Centro;95,14;498192,05;Disponível;2023-07-01;;;;0,00
+Comercial;Zona Norte;43,29;154023,66;Disponível;2023-06-22;;;;0,00
+Casa;Zona Norte;112,80;257517,89;Vendido;2024-02-29;2024-11-03;;248.0;257517,89
+Apartamento;Zona Sul;44,10;182927,24;Vendido;2024-02-23;2024-12-09;;290.0;182927,24
+Apartamento;Zona Leste;86,75;433688,41;Disponível;2023-11-10;;;;0,00
+Apartamento;Zona Norte;35,19;177414,96;Vendido;2024-02-22;2024-07-11;;140.0;177414,96
+Apartamento;Zona Oeste;45,75;235156,83;Disponível;2023-06-25;;;;0,00
+Apartamento;Zona Leste;87,45;283955,40;Vendido;2024-02-23;2024-08-01;;160.0;283955,40
+Comercial;Zona Norte;71,23;286826,83;Vendido;2023-06-13;2024-09-08;;453.0;286826,83
+Comercial;Zona Norte;115,55;404831,74;Disponível;2023-12-14;;;;0,00
+Apartamento;Centro;79,92;389014,60;Vendido;2023-05-24;2025-02-14;;632.0;389014,60
+Casa;Zona Leste;116,94;349205,06;Vendido;2023-04-26;2024-08-14;;476.0;349205,06
+Casa;Zona Leste;112,53;198784,24;Disponível;2023-12-30;;;;0,00
+Comercial;Zona Sul;68,57;395142,17;Alugado;2024-01-28;;2024-10-15;;1975,71
+Casa;Zona Sul;45,57;138063,88;Disponível;2023-06-21;;;;0,00
+Comercial;Zona Norte;42,20;156224,82;Vendido;2023-03-27;2024-04-10;;380.0;156224,82
+Comercial;Zona Oeste;39,50;68008,34;Disponível;2023-05-01;;;;0,00
+Comercial;Zona Leste;113,69;509486,96;Alugado;2024-02-20;;2024-09-06;;2547,43
+Apartamento;Centro;82,70;292202,26;Vendido;2023-05-23;2024-09-24;;490.0;292202,26
+Comercial;Zona Norte;102,76;470487,69;Alugado;2023-07-03;;2024-06-09;;2352,44
+Comercial;Zona Sul;55,41;145463,99;Disponível;2023-12-12;;;;0,00
+Comercial;Zona Oeste;40,64;177390,76;Disponível;2023-12-04;;;;0,00
+Apartamento;Zona Sul;30,94;182161,73;Vendido;2024-01-27;2024-08-26;;212.0;182161,73
+Apartamento;Zona Norte;97,51;488859,56;Vendido;2024-03-18;2024-12-20;;277.0;488859,56
+Casa;Zona Leste;117,65;467606,98;Alugado;2023-09-09;;2024-04-28;;2338,03
+Comercial;Zona Sul;77,67;396129,43;Vendido;2023-07-13;2024-11-18;;494.0;396129,43
+Apartamento;Zona Sul;110,92;407243,89;Alugado;2023-08-25;;2024-10-17;;2036,22
+Casa;Centro;62,94;249034,07;Vendido;2023-11-13;2024-11-26;;379.0;249034,07
+Casa;Zona Leste;77,06;208482,75;Vendido;2023-12-05;2024-10-05;;305.0;208482,75
+Comercial;Zona Leste;109,54;455162,80;Disponível;2024-02-26;;;;0,00
+Casa;Zona Sul;100,75;524884,33;Disponível;2024-03-17;;;;0,00
+Casa;Zona Oeste;71,91;410281,79;Disponível;2023-10-03;;;;0,00
+Casa;Centro;31,22;102858,04;Disponível;2023-03-24;;;;0,00
+Comercial;Centro;60,12;215020,98;Vendido;2023-09-09;2024-08-04;;330.0;215020,98
+Apartamento;Zona Leste;108,14;644498,18;Disponível;2023-10-11;;;;0,00
+Apartamento;Zona Oeste;66,43;227090,96;Disponível;2023-09-02;;;;0,00
+Apartamento;Zona Norte;42,17;144896,54;Vendido;2023-06-23;2024-12-20;;546.0;144896,54
+Comercial;Zona Sul;53,51;106422,29;Alugado;2023-11-06;;2025-03-16;;532,11
+Comercial;Centro;58,11;293582,76;Disponível;2023-06-03;;;;0,00
+Casa;Zona Oeste;95,50;192876,58;Alugado;2024-03-18;;2025-02-28;;964,38
+Apartamento;Zona Oeste;63,44;366737,76;Disponível;2023-04-09;;;;0,00
+Comercial;Centro;112,14;400719,95;Vendido;2023-08-23;2025-01-04;;500.0;400719,95
+Casa;Zona Norte;117,27;640805,50;Vendido;2023-08-15;2025-01-13;;517.0;640805,50
+Comercial;Centro;74,19;222887,53;Disponível;2023-07-22;;;;0,00
+Casa;Zona Oeste;107,25;167964,22;Disponível;2023-11-04;;;;0,00
+Comercial;Zona Oeste;77,85;154113,42;Vendido;2023-04-06;2024-07-21;;472.0;154113,42
+Comercial;Zona Oeste;71,62;174265,78;Disponível;2023-12-29;;;;0,00
+Comercial;Centro;100,97;529535,15;Disponível;2023-12-29;;;;0,00
+Apartamento;Zona Sul;82,44;253437,87;Disponível;2023-08-30;;;;0,00
+Casa;Zona Oeste;84,95;266194,22;Vendido;2023-10-05;2024-08-18;;318.0;266194,22
+Casa;Zona Norte;80,02;354426,98;Vendido;2023-06-02;2024-09-20;;476.0;354426,98
+Apartamento;Zona Oeste;48,88;259871,99;Vendido;2023-04-29;2024-10-31;;551.0;259871,99
+Comercial;Zona Oeste;36,26;62136,59;Disponível;2023-12-19;;;;0,00
+Apartamento;Zona Norte;61,49;126149,81;Vendido;2024-02-06;2025-02-15;;375.0;126149,81
+Comercial;Zona Leste;117,00;318394,44;Alugado;2023-05-19;;2024-04-10;;1591,97
+Apartamento;Zona Oeste;64,92;354487,87;Disponível;2023-11-17;;;;0,00
+Casa;Zona Oeste;98,26;256614,83;Alugado;2023-12-13;;2024-07-17;;1283,07
+Casa;Zona Leste;88,35;508440,11;Alugado;2023-07-10;;2025-01-23;;2542,20
+Casa;Zona Sul;90,95;219975,31;Disponível;2024-02-23;;;;0,00
+Casa;Centro;62,32;120432,78;Alugado;2023-05-23;;2024-04-19;;602,16
+Apartamento;Zona Norte;103,35;586794,43;Alugado;2023-06-11;;2024-12-26;;2933,97
+Apartamento;Centro;87,06;218329,94;Vendido;2023-08-26;2025-02-16;;540.0;218329,94
+Casa;Centro;95,45;492652,77;Disponível;2023-03-24;;;;0,00
+Casa;Centro;58,38;210618,11;Disponível;2023-12-06;;;;0,00
+Apartamento;Zona Leste;36,06;163490,63;Disponível;2024-01-22;;;;0,00
+Apartamento;Zona Oeste;56,71;307040,42;Vendido;2023-09-16;2025-01-30;;502.0;307040,42
+Apartamento;Zona Norte;108,48;169156,12;Disponível;2023-04-15;;;;0,00
+Apartamento;Centro;41,18;65698,57;Vendido;2023-09-29;2024-04-15;;199.0;65698,57
+Casa;Zona Leste;47,61;153900,28;Vendido;2023-10-26;2025-02-06;;469.0;153900,28
+Apartamento;Centro;89,62;167108,14;Vendido;2023-11-17;2025-01-22;;432.0;167108,14
+Casa;Centro;37,86;187404,73;Vendido;2023-10-05;2024-06-15;;254.0;187404,73
+Comercial;Zona Sul;43,65;121859,45;Alugado;2024-01-12;;2024-04-03;;609,30
+Comercial;Zona Norte;87,41;248622,01;Disponível;2023-11-05;;;;0,00
+Comercial;Centro;62,22;326664,33;Disponível;2023-08-14;;;;0,00
+Comercial;Zona Leste;100,23;347318,00;Vendido;2023-09-19;2024-04-24;;218.0;347318,00
+Comercial;Zona Sul;81,10;201431,31;Disponível;2023-10-19;;;;0,00
+Comercial;Zona Norte;30,26;48447,47;Disponível;2024-01-11;;;;0,00
+Casa;Centro;92,72;260050,86;Vendido;2023-09-14;2024-12-09;;452.0;260050,86
+Casa;Zona Oeste;114,67;360991,48;Disponível;2023-07-22;;;;0,00
+Apartamento;Zona Oeste;98,00;426556,76;Disponível;2024-02-21;;;;0,00
+Apartamento;Zona Sul;87,16;510173,63;Disponível;2023-10-14;;;;0,00
+Apartamento;Zona Oeste;108,71;540633,31;Disponível;2024-02-24;;;;0,00
+Casa;Zona Oeste;54,30;244284,30;Disponível;2023-11-08;;;;0,00
+Casa;Zona Sul;38,68;215845,62;Disponível;2023-03-31;;;;0,00
+Comercial;Zona Norte;96,37;279321,70;Disponível;2023-11-04;;;;0,00
+Casa;Centro;91,62;170297,76;Disponível;2024-01-11;;;;0,00
+Comercial;Centro;101,54;436850,47;Alugado;2024-01-01;;2025-03-19;;2184,25
+Comercial;Centro;77,48;335385,35;Vendido;2023-03-31;2024-05-06;;402.0;335385,35
+Comercial;Centro;53,55;158129,40;Vendido;2023-08-03;2024-11-15;;470.0;158129,40
+Comercial;Zona Leste;35,39;190559,93;Vendido;2023-08-24;2024-08-24;;366.0;190559,93
+Casa;Zona Leste;49,25;270801,12;Vendido;2023-12-16;2024-05-07;;143.0;270801,12
+Apartamento;Zona Oeste;103,11;183455,37;Vendido;2023-04-25;2024-08-21;;484.0;183455,37
+Casa;Centro;49,84;253830,14;Alugado;2023-08-03;;2025-02-27;;1269,15
+Apartamento;Zona Sul;105,19;455051,94;Disponível;2023-04-05;;;;0,00
+Apartamento;Centro;71,47;266583,81;Disponível;2023-09-24;;;;0,00
+Comercial;Zona Oeste;68,82;164133,64;Disponível;2023-12-14;;;;0,00
+Comercial;Zona Sul;102,64;166870,06;Vendido;2024-01-20;2025-02-24;;401.0;166870,06
+Apartamento;Zona Norte;46,21;200135,05;Disponível;2023-08-18;;;;0,00
+Comercial;Zona Leste;69,16;395914,72;Disponível;2023-05-08;;;;0,00
+Casa;Zona Sul;31,60;98200,48;Vendido;2024-02-06;2024-08-09;;185.0;98200,48
+Casa;Zona Norte;113,76;318273,18;Disponível;2023-07-17;;;;0,00
+Apartamento;Centro;72,87;140384,78;Alugado;2023-06-06;;2024-07-15;;701,92
+Comercial;Zona Norte;112,00;592879,84;Disponível;2023-04-13;;;;0,00
+Comercial;Zona Leste;54,82;173100,18;Disponível;2023-08-30;;;;0,00
+Comercial;Zona Leste;102,41;206312,11;Vendido;2023-04-12;2024-06-08;;423.0;206312,11
+Comercial;Centro;72,65;142253,06;Alugado;2023-04-11;;2024-04-30;;711,27
+Apartamento;Zona Oeste;98,55;566148,07;Vendido;2024-02-08;2025-01-22;;349.0;566148,07
+Casa;Zona Sul;57,35;328282,30;Vendido;2024-01-13;2024-12-22;;344.0;328282,30
+Comercial;Centro;32,23;126180,77;Vendido;2023-12-29;2024-11-21;;328.0;126180,77
+Casa;Zona Sul;82,24;390866,16;Alugado;2023-11-25;;2024-06-23;;1954,33
+Casa;Zona Sul;51,56;235357,48;Disponível;2023-10-15;;;;0,00
+Apartamento;Centro;31,71;130326,83;Alugado;2023-08-10;;2024-09-30;;651,63
+Apartamento;Zona Norte;71,57;159495,89;Disponível;2023-09-27;;;;0,00
+Apartamento;Zona Sul;98,78;303201,26;Disponível;2023-09-04;;;;0,00
+Apartamento;Zona Leste;31,80;164325,23;Vendido;2024-03-08;2024-12-26;;293.0;164325,23
+Apartamento;Zona Norte;32,62;51741,19;Alugado;2024-01-16;;2024-12-27;;258,71
+Apartamento;Zona Norte;106,41;327419,31;Disponível;2023-08-30;;;;0,00
+Casa;Zona Oeste;75,80;130884,62;Alugado;2023-11-09;;2024-10-22;;654,42
+Comercial;Zona Sul;66,35;175032,63;Alugado;2024-02-07;;2024-04-08;;875,16
+Comercial;Zona Norte;64,00;232694,40;Disponível;2023-04-30;;;;0,00
+Comercial;Zona Sul;83,28;203474,69;Vendido;2023-06-04;2024-09-27;;481.0;203474,69
+Comercial;Zona Leste;44,37;248916,14;Vendido;2024-01-26;2025-01-26;;366.0;248916,14
+Apartamento;Zona Sul;59,91;180964,75;Alugado;2023-09-25;;2024-05-22;;904,82
+Comercial;Centro;71,19;289950,46;Disponível;2024-02-25;;;;0,00
+Casa;Zona Sul;117,02;371958,60;Disponível;2023-05-04;;;;0,00
+Casa;Zona Oeste;110,77;363814,10;Vendido;2023-06-22;2024-05-17;;330.0;363814,10
+Apartamento;Zona Leste;85,62;298606,60;Alugado;2023-08-06;;2024-12-02;;1493,03
+Casa;Zona Norte;94,94;176762,14;Vendido;2023-06-20;2024-06-17;;363.0;176762,14
+Casa;Zona Oeste;44,46;180242,17;Disponível;2023-07-26;;;;0,00
+Apartamento;Zona Norte;108,25;187993,45;Disponível;2024-01-01;;;;0,00
+Apartamento;Centro;41,48;128889,97;Disponível;2023-09-27;;;;0,00
+Comercial;Centro;64,57;124659,49;Disponível;2024-01-24;;;;0,00
+Comercial;Zona Norte;99,81;443980,83;Alugado;2023-05-13;;2024-08-28;;2219,90
+Comercial;Zona Oeste;51,43;189272,69;Alugado;2024-02-28;;2024-11-19;;946,36
+Casa;Centro;41,72;197741,12;Alugado;2024-01-28;;2024-05-11;;988,71
+Comercial;Zona Sul;93,78;558721,55;Vendido;2023-10-31;2025-03-17;;503.0;558721,55
+Comercial;Zona Leste;76,58;304303,65;Disponível;2024-02-03;;;;0,00
+Apartamento;Zona Leste;84,23;145561,23;Alugado;2024-01-05;;2025-02-07;;727,81
+Comercial;Zona Norte;113,80;192461,97;Alugado;2024-03-12;;2024-03-26;;962,31
+Apartamento;Zona Leste;102,40;445972,48;Disponível;2023-12-16;;;;0,00
+Comercial;Zona Sul;63,61;294778,28;Vendido;2023-04-11;2024-08-01;;478.0;294778,28
+Comercial;Zona Norte;107,47;389296,10;Disponível;2023-12-02;;;;0,00
+Comercial;Zona Leste;40,24;98325,23;Disponível;2023-12-26;;;;0,00
+Apartamento;Zona Leste;116,25;443952,94;Disponível;2023-07-26;;;;0,00
+Casa;Zona Sul;98,46;452004,26;Disponível;2023-08-22;;;;0,00
+Comercial;Zona Norte;37,05;181534,26;Vendido;2023-06-27;2025-02-02;;586.0;181534,26
+Casa;Centro;58,81;106681,34;Vendido;2023-08-13;2025-03-02;;567.0;106681,34
+Apartamento;Zona Sul;36,67;91638,70;Disponível;2023-04-19;;;;0,00
+Casa;Zona Sul;96,12;347676,61;Disponível;2023-09-16;;;;0,00
+Apartamento;Zona Sul;104,61;395186,24;Disponível;2023-10-07;;;;0,00
+Casa;Zona Sul;106,77;521385,67;Alugado;2023-10-19;;2024-04-19;;2606,93
+Apartamento;Centro;107,92;333287,18;Alugado;2023-07-14;;2024-11-29;;1666,44
+Comercial;Zona Leste;43,26;99659,36;Vendido;2024-03-18;2024-06-11;;85.0;99659,36
+Apartamento;Zona Norte;73,07;408179,98;Vendido;2023-10-02;2024-07-11;;283.0;408179,98
+Apartamento;Zona Norte;52,13;188305,55;Disponível;2024-01-03;;;;0,00
+Comercial;Zona Oeste;112,59;591211,22;Alugado;2023-10-15;;2024-08-31;;2956,06
+Comercial;Zona Leste;82,06;363446,20;Vendido;2023-04-21;2024-10-20;;548.0;363446,20
+Comercial;Centro;33,80;114978,81;Vendido;2024-02-07;2025-02-19;;378.0;114978,81
+Apartamento;Zona Sul;45,42;221550,58;Disponível;2023-08-16;;;;0,00
+Apartamento;Zona Norte;55,76;204510,95;Disponível;2023-11-10;;;;0,00
+Casa;Zona Sul;82,28;299850,54;Vendido;2023-08-16;2024-07-12;;331.0;299850,54
+Comercial;Centro;57,58;146317,11;Disponível;2024-02-29;;;;0,00
+Comercial;Zona Leste;81,30;311927,77;Disponível;2024-02-18;;;;0,00
+Apartamento;Zona Norte;33,80;55135,24;Vendido;2024-03-13;2024-04-28;;46.0;55135,24
+Comercial;Zona Sul;110,28;545949,96;Vendido;2024-03-03;2024-09-05;;186.0;545949,96
+Comercial;Centro;103,15;387802,74;Disponível;2023-06-19;;;;0,00
+Apartamento;Centro;55,23;134135,44;Disponível;2023-10-28;;;;0,00
+Apartamento;Zona Leste;85,81;203553,33;Vendido;2023-10-31;2024-05-31;;213.0;203553,33
+Apartamento;Zona Norte;95,03;474175,94;Vendido;2023-04-29;2024-12-03;;584.0;474175,94
+Casa;Zona Norte;36,21;127022,87;Vendido;2023-09-16;2025-02-04;;507.0;127022,87
+Apartamento;Zona Leste;69,39;229975,11;Disponível;2023-10-19;;;;0,00
+Apartamento;Zona Leste;64,33;161239,93;Vendido;2023-03-31;2024-07-04;;461.0;161239,93
+Apartamento;Zona Sul;36,12;162302,33;Disponível;2023-09-01;;;;0,00
+Comercial;Zona Norte;67,87;404157,03;Disponível;2023-10-15;;;;0,00
+Casa;Zona Leste;86,12;405625,20;Alugado;2023-06-08;;2024-07-25;;2028,13
+Casa;Zona Oeste;89,71;527978,34;Disponível;2023-05-07;;;;0,00
+Apartamento;Zona Oeste;90,97;467649,48;Vendido;2023-11-05;2025-03-02;;483.0;467649,48
+Apartamento;Zona Sul;48,72;223155,14;Alugado;2024-02-24;;2024-09-02;;1115,78
+Apartamento;Centro;67,19;169957,10;Vendido;2023-06-04;2024-10-01;;485.0;169957,10
+Comercial;Centro;67,46;191428,54;Disponível;2023-12-29;;;;0,00
+Casa;Zona Oeste;64,37;295154,47;Disponível;2023-05-04;;;;0,00
+Comercial;Zona Norte;118,72;651191,07;Vendido;2024-03-07;2024-07-04;;119.0;651191,07
+Casa;Centro;43,76;123865,74;Alugado;2023-10-26;;2024-12-30;;619,33
+Casa;Zona Sul;110,09;351221,23;Disponível;2023-10-25;;;;0,00
+Apartamento;Zona Oeste;61,10;142614,12;Alugado;2023-03-23;;2024-08-09;;713,07
+Apartamento;Zona Oeste;74,53;323903,65;Vendido;2023-06-10;2024-11-26;;535.0;323903,65
+Casa;Centro;105,20;353282,64;Vendido;2023-09-15;2024-06-03;;262.0;353282,64
+Apartamento;Zona Oeste;87,17;371082,69;Disponível;2023-05-19;;;;0,00
+Apartamento;Zona Sul;58,66;116613,73;Alugado;2024-03-16;;2025-02-07;;583,07
+Casa;Centro;90,26;243148,71;Disponível;2023-10-18;;;;0,00
+Casa;Zona Leste;54,40;272509,18;Vendido;2023-11-11;2024-06-23;;225.0;272509,18
+Casa;Zona Norte;31,85;117888,95;Vendido;2024-03-08;2024-07-19;;133.0;117888,95
+Comercial;Centro;59,74;142970,37;Disponível;2023-04-16;;;;0,00
+Casa;Zona Norte;106,27;235583,59;Vendido;2023-04-07;2024-09-27;;539.0;235583,59
+Casa;Zona Oeste;111,31;221620,44;Disponível;2023-05-22;;;;0,00
+Apartamento;Zona Sul;62,94;347615,10;Vendido;2023-12-01;2024-05-07;;158.0;347615,10
+Casa;Zona Norte;37,16;166237,49;Vendido;2023-12-02;2024-08-04;;246.0;166237,49
+Comercial;Zona Sul;85,64;300501,34;Alugado;2023-05-15;;2025-01-01;;1502,51
+Comercial;Centro;95,78;213677,52;Vendido;2024-03-17;2024-11-13;;241.0;213677,52
+Casa;Zona Norte;74,15;340986,19;Vendido;2023-10-05;2024-03-25;;172.0;340986,19
+Comercial;Zona Norte;81,94;414730,30;Disponível;2023-10-17;;;;0,00
+Casa;Zona Norte;104,22;461998,92;Vendido;2023-07-11;2024-04-25;;289.0;461998,92
+Casa;Zona Leste;54,54;158778,48;Alugado;2023-12-29;;2024-07-18;;793,89
+Comercial;Zona Sul;63,41;176553,10;Vendido;2023-12-05;2024-09-04;;274.0;176553,10
+Apartamento;Zona Sul;33,52;103128,30;Alugado;2023-06-01;;2024-11-17;;515,64
+Apartamento;Zona Oeste;51,58;152572,09;Disponível;2024-02-03;;;;0,00
+Casa;Zona Norte;115,76;277035,67;Vendido;2023-04-18;2024-10-02;;533.0;277035,67
+Comercial;Zona Sul;108,41;424464,18;Vendido;2024-02-09;2024-07-19;;161.0;424464,18
+Apartamento;Centro;81,82;423689,32;Vendido;2023-06-25;2024-05-29;;339.0;423689,32
+Apartamento;Centro;95,50;370563,88;Alugado;2023-06-13;;2024-09-25;;1852,82
+Comercial;Zona Norte;39,15;93403,29;Disponível;2023-04-19;;;;0,00
+Comercial;Zona Leste;58,33;109299,92;Disponível;2023-11-05;;;;0,00
+Apartamento;Zona Leste;84,96;143087,08;Vendido;2023-07-27;2024-04-15;;263.0;143087,08
+Casa;Zona Oeste;47,61;215148,16;Disponível;2023-08-20;;;;0,00
+Apartamento;Zona Sul;119,79;351648,34;Vendido;2023-05-02;2024-05-08;;372.0;351648,34
+Comercial;Centro;78,77;468546,02;Vendido;2023-06-18;2024-08-22;;431.0;468546,02
+Comercial;Zona Norte;108,41;595325,93;Disponível;2024-03-17;;;;0,00
+Casa;Zona Oeste;32,40;104311,15;Vendido;2023-08-01;2024-05-07;;280.0;104311,15
+Comercial;Zona Oeste;40,95;239253,65;Disponível;2023-12-18;;;;0,00
+Comercial;Centro;64,13;186490,04;Vendido;2023-04-27;2024-07-10;;440.0;186490,04
+Apartamento;Zona Leste;67,54;382491,18;Vendido;2023-05-28;2024-10-16;;507.0;382491,18
+Comercial;Zona Oeste;88,10;319492,89;Vendido;2023-10-05;2025-03-14;;526.0;319492,89
+Casa;Zona Oeste;50,77;228041,58;Disponível;2023-08-13;;;;0,00
+Comercial;Zona Oeste;116,84;300043,95;Disponível;2024-02-26;;;;0,00
+Apartamento;Centro;82,70;402758,10;Alugado;2024-01-19;;2025-02-06;;2013,79
+Apartamento;Zona Leste;110,94;504013,73;Vendido;2023-05-27;2024-12-26;;579.0;504013,73
+Apartamento;Zona Oeste;45,04;187230,38;Disponível;2023-10-11;;;;0,00
+Apartamento;Zona Leste;95,90;515703,21;Disponível;2023-09-16;;;;0,00
+Comercial;Zona Norte;38,30;65817,78;Alugado;2023-09-07;;2025-03-01;;329,09
+Comercial;Zona Sul;87,64;465789,07;Disponível;2023-04-24;;;;0,00
+Apartamento;Centro;83,85;247742,37;Vendido;2023-07-20;2024-07-24;;370.0;247742,37
+Apartamento;Zona Sul;99,22;211692,82;Disponível;2023-07-27;;;;0,00
+Apartamento;Zona Sul;88,57;287000,46;Disponível;2023-09-07;;;;0,00
+Apartamento;Zona Norte;79,74;426377,75;Vendido;2023-11-06;2024-07-18;;255.0;426377,75
+Comercial;Centro;41,72;197489,96;Vendido;2023-08-10;2024-05-11;;275.0;197489,96
+Apartamento;Zona Leste;71,06;116756,55;Vendido;2024-01-18;2025-01-15;;363.0;116756,55
+Comercial;Zona Oeste;35,54;123500,43;Disponível;2023-05-23;;;;0,00
+Casa;Zona Leste;95,89;459929,67;Disponível;2023-08-20;;;;0,00
+Casa;Zona Oeste;98,11;384970,89;Disponível;2023-12-15;;;;0,00
+Apartamento;Zona Sul;65,07;255754,38;Disponível;2024-02-19;;;;0,00
+Comercial;Centro;80,79;476975,27;Disponível;2023-05-20;;;;0,00
+Casa;Centro;91,51;398343,95;Alugado;2024-01-18;;2024-11-09;;1991,72
+Casa;Zona Leste;113,76;205327,70;Vendido;2024-03-04;2025-02-03;;336.0;205327,70
+Apartamento;Zona Leste;37,39;75973,11;Disponível;2023-05-15;;;;0,00
+Casa;Centro;38,74;131029,14;Disponível;2023-10-28;;;;0,00
+Casa;Zona Oeste;86,71;402339,60;Disponível;2024-03-17;;;;0,00
+Comercial;Zona Oeste;60,91;275734,09;Disponível;2023-08-23;;;;0,00
+Casa;Zona Leste;37,98;116198,29;Vendido;2024-03-01;2024-12-05;;279.0;116198,29
+Casa;Zona Oeste;31,90;117460,58;Alugado;2023-06-13;;2024-09-19;;587,30
+Casa;Zona Oeste;78,80;145862,74;Vendido;2023-12-20;2024-06-05;;168.0;145862,74
+Comercial;Centro;110,13;385005,67;Disponível;2023-11-28;;;;0,00
+Comercial;Zona Sul;98,69;547876,55;Vendido;2023-11-08;2025-02-18;;468.0;547876,55
+Casa;Zona Sul;46,87;127952,76;Disponível;2024-01-27;;;;0,00
+Apartamento;Zona Oeste;55,29;287526,25;Disponível;2024-03-09;;;;0,00
+Comercial;Zona Norte;67,11;384132,94;Disponível;2023-06-07;;;;0,00
+Apartamento;Zona Oeste;41,21;84931,34;Vendido;2024-02-19;2024-05-14;;85.0;84931,34
+Apartamento;Centro;31,74;86168,07;Disponível;2023-06-02;;;;0,00
+Comercial;Zona Sul;100,79;158480,18;Alugado;2023-06-19;;2024-04-25;;792,40
+Apartamento;Zona Sul;57,36;222219,52;Alugado;2023-06-19;;2025-02-19;;1111,10
+Apartamento;Zona Oeste;104,53;273409,71;Vendido;2023-08-09;2024-06-16;;312.0;273409,71
+Comercial;Zona Norte;41,17;89137,99;Vendido;2023-11-19;2024-10-17;;333.0;89137,99
+Comercial;Zona Leste;67,21;297596,47;Vendido;2024-01-28;2024-10-15;;261.0;297596,47
+Apartamento;Zona Leste;53,47;310428,64;Vendido;2023-06-09;2024-09-17;;466.0;310428,64
+Casa;Zona Oeste;78,24;138174,19;Disponível;2023-05-11;;;;0,00
+Apartamento;Zona Sul;88,87;334288,95;Alugado;2023-09-21;;2024-09-19;;1671,44
+Comercial;Zona Norte;70,30;356453,34;Alugado;2023-04-04;;2024-06-19;;1782,27
+Casa;Zona Norte;108,43;210738,04;Disponível;2023-09-12;;;;0,00
+Apartamento;Centro;98,15;576544,88;Vendido;2023-11-03;2024-11-14;;377.0;576544,88
+Comercial;Centro;40,52;209202,33;Vendido;2024-01-18;2025-02-04;;383.0;209202,33
+Comercial;Zona Leste;100,13;496953,20;Vendido;2023-08-01;2024-12-21;;508.0;496953,20
+Comercial;Zona Sul;47,70;251688,10;Alugado;2024-01-12;;2024-06-20;;1258,44
+Apartamento;Zona Oeste;78,16;132011,46;Disponível;2024-01-16;;;;0,00
+Comercial;Zona Leste;98,03;224553,40;Vendido;2023-08-24;2024-12-31;;495.0;224553,40
+Casa;Zona Norte;108,53;178131,37;Vendido;2023-06-02;2024-10-05;;491.0;178131,37
+Apartamento;Zona Norte;81,97;176918,31;Vendido;2024-02-29;2024-10-07;;221.0;176918,31
+Casa;Centro;99,04;498708,00;Disponível;2023-05-18;;;;0,00
+Apartamento;Zona Norte;100,59;164680,92;Vendido;2024-01-07;2024-11-09;;307.0;164680,92
+Apartamento;Zona Oeste;42,53;74506,18;Vendido;2023-05-04;2024-07-08;;431.0;74506,18
+Casa;Centro;33,54;131804,82;Disponível;2023-10-15;;;;0,00
+Casa;Zona Sul;84,72;244118,14;Vendido;2023-12-31;2024-07-24;;206.0;244118,14
+Casa;Zona Oeste;85,66;259218,30;Alugado;2023-06-21;;2024-05-18;;1296,09
+Comercial;Zona Sul;52,32;179073,05;Disponível;2023-03-31;;;;0,00
+Comercial;Zona Oeste;58,94;266773,64;Disponível;2023-09-11;;;;0,00
+Apartamento;Zona Sul;40,21;80481,12;Alugado;2023-12-22;;2024-12-06;;402,41
+Casa;Zona Oeste;97,30;432156,00;Vendido;2023-11-24;2024-04-20;;148.0;432156,00
+Casa;Zona Sul;38,21;89372,43;Alugado;2023-08-16;;2024-12-28;;446,86
+Apartamento;Zona Leste;91,57;272803,51;Disponível;2024-02-01;;;;0,00
+Comercial;Zona Norte;115,58;446725,95;Vendido;2023-05-14;2024-12-15;;581.0;446725,95
+Casa;Zona Norte;38,56;229031,36;Disponível;2024-01-13;;;;0,00
+Casa;Zona Sul;116,17;437342,88;Vendido;2023-06-29;2024-08-03;;401.0;437342,88
+Comercial;Zona Norte;97,23;559862,01;Disponível;2023-06-30;;;;0,00
+Casa;Centro;61,73;217615,53;Disponível;2023-07-07;;;;0,00
+Comercial;Zona Oeste;57,37;110523,30;Disponível;2023-10-09;;;;0,00
+Apartamento;Zona Sul;51,02;296456,30;Disponível;2024-03-17;;;;0,00
+Comercial;Zona Leste;44,90;190168,56;Disponível;2023-06-04;;;;0,00
+Comercial;Zona Sul;39,37;107891,91;Alugado;2023-11-15;;2024-07-17;;539,46
+Comercial;Centro;58,71;233784,98;Vendido;2023-05-06;2024-07-08;;429.0;233784,98
+Comercial;Zona Norte;71,63;173014,39;Vendido;2023-08-19;2024-09-28;;406.0;173014,39
+Casa;Centro;55,77;305293,90;Disponível;2023-05-01;;;;0,00
+Apartamento;Zona Sul;116,61;633096,68;Vendido;2023-06-28;2024-06-06;;344.0;633096,68
+Apartamento;Zona Sul;72,70;255809,49;Disponível;2023-07-15;;;;0,00
+Apartamento;Zona Sul;33,63;120866,56;Vendido;2023-06-22;2024-04-25;;308.0;120866,56
+Comercial;Zona Leste;48,10;156801,19;Disponível;2023-12-16;;;;0,00
+Casa;Zona Sul;50,74;157412,22;Vendido;2023-06-17;2025-01-16;;579.0;157412,22
+Casa;Zona Oeste;71,63;349896,08;Vendido;2023-10-27;2025-01-01;;432.0;349896,08
+Comercial;Centro;119,53;546138,55;Disponível;2023-09-20;;;;0,00
+Apartamento;Zona Norte;109,16;291511,78;Vendido;2024-03-10;2025-02-10;;337.0;291511,78
+Casa;Zona Leste;51,38;84769,81;Vendido;2023-06-26;2025-03-19;;632.0;84769,81
+Comercial;Zona Oeste;36,31;157246,63;Alugado;2023-07-12;;2024-07-30;;786,23
+Casa;Centro;90,77;250475,28;Alugado;2023-08-28;;2024-10-08;;1252,38
+Apartamento;Zona Sul;110,50;315278,60;Disponível;2023-06-14;;;;0,00
+Apartamento;Zona Sul;31,44;51169,23;Alugado;2023-04-05;;2024-10-21;;255,85
+Comercial;Zona Sul;50,67;111712,15;Vendido;2023-05-03;2024-10-27;;543.0;111712,15
+Comercial;Zona Leste;91,41;158679,53;Disponível;2023-09-15;;;;0,00
+Casa;Centro;87,04;135549,13;Disponível;2023-08-17;;;;0,00
+Apartamento;Zona Oeste;33,89;197017,14;Vendido;2023-06-22;2025-01-31;;589.0;197017,14
+Comercial;Zona Sul;106,33;543042,20;Vendido;2024-02-04;2025-01-24;;355.0;543042,20
+Casa;Zona Norte;96,85;462629,21;Disponível;2023-07-02;;;;0,00
+Casa;Zona Oeste;91,33;259003,66;Alugado;2023-07-29;;2025-02-05;;1295,02
+Comercial;Centro;101,53;403968,58;Disponível;2023-04-17;;;;0,00
+Comercial;Zona Sul;114,59;353144,61;Disponível;2023-08-17;;;;0,00
+Casa;Zona Oeste;33,74;178962,70;Disponível;2023-12-16;;;;0,00
+Apartamento;Zona Leste;112,27;217011,17;Disponível;2023-12-31;;;;0,00
+Apartamento;Centro;60,34;289741,82;Alugado;2023-09-01;;2024-11-21;;1448,71
+Apartamento;Centro;75,20;152492,06;Vendido;2023-03-24;2024-08-22;;517.0;152492,06
+Comercial;Centro;83,06;429738,32;Alugado;2023-06-27;;2025-02-20;;2148,69
+Comercial;Zona Oeste;104,62;448642,99;Disponível;2023-11-12;;;;0,00
+Casa;Centro;57,22;202223,49;Vendido;2023-08-25;2024-08-24;;365.0;202223,49
+Apartamento;Zona Oeste;94,12;217534,85;Vendido;2023-05-06;2025-01-22;;627.0;217534,85
+Casa;Centro;42,24;140533,32;Vendido;2023-08-07;2025-02-21;;564.0;140533,32
+Apartamento;Zona Sul;98,29;491747,82;Disponível;2023-06-13;;;;0,00
+Apartamento;Zona Leste;113,98;605566,62;Disponível;2024-01-26;;;;0,00
+Comercial;Zona Oeste;71,15;352252,27;Vendido;2023-04-01;2024-04-10;;375.0;352252,27
+Apartamento;Centro;62,11;265616,52;Disponível;2023-09-20;;;;0,00
+Apartamento;Zona Leste;106,99;292737,48;Alugado;2023-09-10;;2024-12-12;;1463,69
+Apartamento;Zona Norte;70,34;149080,00;Disponível;2023-03-25;;;;0,00
+Casa;Centro;51,45;156906,55;Vendido;2023-09-30;2024-07-03;;277.0;156906,55
+Casa;Zona Sul;101,37;375019,33;Disponível;2024-02-26;;;;0,00
+Comercial;Zona Sul;40,97;142873,45;Vendido;2023-06-01;2024-10-09;;496.0;142873,45
+Apartamento;Zona Sul;62,47;339902,39;Vendido;2023-10-01;2025-01-05;;462.0;339902,39
+Comercial;Zona Sul;97,75;209340,42;Disponível;2024-02-29;;;;0,00
+Casa;Centro;54,77;242751,59;Disponível;2024-02-03;;;;0,00
+Apartamento;Centro;60,53;324276,76;Disponível;2023-05-30;;;;0,00
+Casa;Zona Norte;115,74;587132,82;Disponível;2023-10-18;;;;0,00
+Apartamento;Zona Sul;43,15;222466,73;Disponível;2023-10-30;;;;0,00
+Casa;Zona Sul;63,80;315593,72;Disponível;2023-09-14;;;;0,00
+Casa;Zona Sul;43,70;138358,13;Disponível;2023-04-17;;;;0,00
+Apartamento;Zona Oeste;62,56;194771,18;Vendido;2023-07-21;2024-10-05;;442.0;194771,18
+Casa;Centro;106,94;553025,24;Disponível;2024-01-23;;;;0,00
+Apartamento;Zona Leste;51,17;94545,79;Vendido;2023-06-02;2024-08-27;;452.0;94545,79
+Apartamento;Centro;76,13;454002,02;Disponível;2023-08-15;;;;0,00
+Apartamento;Zona Sul;98,12;207093,05;Alugado;2023-12-14;;2024-06-24;;1035,47
+Apartamento;Zona Norte;106,97;499366,98;Vendido;2023-12-31;2024-10-14;;288.0;499366,98
+Comercial;Zona Leste;33,86;158039,18;Alugado;2023-08-31;;2025-01-08;;790,20
+Comercial;Zona Norte;51,13;229560,41;Disponível;2023-06-14;;;;0,00
+Comercial;Zona Sul;78,98;165713,47;Vendido;2023-07-15;2024-08-30;;412.0;165713,47
+Comercial;Zona Leste;60,29;95625,97;Disponível;2023-04-15;;;;0,00
+Casa;Zona Oeste;119,82;348859,52;Vendido;2023-05-04;2024-03-25;;326.0;348859,52
+Casa;Zona Leste;84,07;245791,26;Disponível;2023-11-03;;;;0,00
+Casa;Zona Sul;33,84;189613,98;Alugado;2024-02-20;;2024-06-23;;948,07
+Apartamento;Zona Norte;55,09;217783,99;Disponível;2023-05-16;;;;0,00
+Comercial;Zona Oeste;77,32;270649,38;Disponível;2023-10-22;;;;0,00
+Comercial;Centro;52,09;162049,39;Alugado;2023-05-07;;2024-09-16;;810,25
+Casa;Zona Norte;107,16;221589,73;Vendido;2023-07-15;2024-07-25;;376.0;221589,73
+Apartamento;Zona Sul;77,51;285561,57;Vendido;2023-05-22;2025-01-30;;619.0;285561,57
+Comercial;Zona Oeste;83,04;273777,90;Alugado;2023-03-27;;2025-03-19;;1368,89
+Comercial;Zona Norte;96,37;347746,33;Disponível;2023-11-22;;;;0,00
+Apartamento;Zona Oeste;32,47;180767,63;Alugado;2023-08-01;;2025-01-25;;903,84
+Casa;Zona Leste;33,21;151785,31;Disponível;2023-09-20;;;;0,00
+Apartamento;Zona Oeste;93,03;174011,68;Disponível;2024-01-19;;;;0,00
+Apartamento;Centro;79,17;386082,80;Disponível;2023-11-16;;;;0,00
+Apartamento;Zona Sul;97,37;339897,25;Disponível;2023-11-25;;;;0,00
+Apartamento;Zona Oeste;116,21;402223,73;Disponível;2023-11-24;;;;0,00
+Casa;Zona Oeste;73,37;242546,55;Vendido;2023-03-29;2024-06-30;;459.0;242546,55
+Apartamento;Zona Oeste;71,87;376076,31;Disponível;2024-02-28;;;;0,00
+Comercial;Zona Norte;33,75;156539,59;Vendido;2024-03-01;2024-03-21;;20.0;156539,59
+Comercial;Zona Norte;79,36;421770,62;Alugado;2023-05-21;;2024-11-19;;2108,85
+Comercial;Zona Oeste;110,81;186997,42;Disponível;2023-08-30;;;;0,00
+Casa;Zona Oeste;33,27;81353,80;Disponível;2023-10-17;;;;0,00
+Apartamento;Zona Leste;56,18;303884,36;Disponível;2023-05-06;;;;0,00
+Apartamento;Zona Leste;68,19;361838,64;Vendido;2023-10-19;2024-12-29;;437.0;361838,64
+Apartamento;Centro;107,99;372796,60;Disponível;2024-01-12;;;;0,00
+Casa;Zona Oeste;102,10;267801,15;Vendido;2023-08-08;2024-06-04;;301.0;267801,15
+Apartamento;Zona Sul;61,23;129598,81;Vendido;2023-10-29;2024-04-30;;184.0;129598,81
+Casa;Zona Norte;119,50;665854,00;Vendido;2023-12-12;2024-10-24;;317.0;665854,00
+Comercial;Zona Leste;64,13;253606,57;Vendido;2024-02-06;2024-09-23;;230.0;253606,57

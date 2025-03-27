@@ -13,13 +13,13 @@ Este projeto tem como objetivo analisar o mercado imobiliário de uma imobiliár
 - 🌍 Destacar as regiões mais lucrativas.
 
 ## 🛠️ Principais Métricas e Visualizações
-- 🔹 **Volume Total de Vendas**
-- 🔹 **Tempo Médio de Venda**
-- 🔹 **Preço Médio por Metro Quadrado**
-- 🔹 **Imóveis Mais Vendidos**
-- 🔹 **Taxa de Vacância**
-- 🔹 **Receita Total**
-- 🔹 **Regiões Mais Lucrativas**
+-  **Volume Total de Vendas**
+-  **Tempo Médio de Venda**
+-  **Preço Médio por Metro Quadrado**
+-  **Imóveis Mais Vendidos**
+-  **Taxa de Vacância**
+-  **Receita Total**
+-  **Regiões Mais Lucrativas**
 
 ## 📌 Visão Geral do Relatorio
 
